@@ -1,0 +1,42 @@
+state/ut,cnfrmd,actv,rcvd,dcsd
+Railway Quarantine,294,177,117,0
+Airport Quarantine,212,125,86,1
+Other State,0,-3,0,3
+Ariyalur,384,23,361,0
+Chengalpattu,2328,1413,897,18
+Chennai,25937,13089,12591,257
+Coimbatore,167,19,147,1
+Cuddalore,498,42,455,1
+Dharmapuri,23,15,8,0
+Dindigul,185,43,140,2
+Erode,74,3,70,1
+Kallakurichi,299,61,238,0
+Kancheepuram,600,235,360,5
+Kanyakumari,105,40,64,1
+Karur,87,7,80,0
+Krishnagiri,38,17,21,0
+Madurai,343,99,241,3
+Nagapattinam,92,41,51,0
+Namakkal,89,11,77,1
+Nilgiris,14,0,14,0
+Perambalur,144,3,141,0
+Pudukkottai,45,19,25,1
+Ramanathapuram,126,52,73,1
+Ranipet,164,68,95,1
+Salem,213,40,173,0
+Sivaganga,44,9,35,0
+Tenkasi,106,18,88,0
+Thanjavur,127,37,90,0
+Theni,134,27,105,2
+Thiruvallur,1581,771,795,15
+Thiruvarur,83,38,45,0
+Thoothukkudi,389,161,226,2
+Tiruchirappalli,132,26,105,1
+Tirunelveli,407,54,352,1
+Tirupathur,42,11,31,0
+Tiruppur,114,0,114,0
+Tiruvannamalai,548,220,326,2
+Vellore,122,76,43,3
+Viluppuram,392,60,329,3
+Virudhunagar,159,35,124,0
+Total,36841,17182,19333,326

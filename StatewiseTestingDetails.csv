@@ -1,0 +1,1819 @@
+Date,Count,State,TotalSamples,Negative,Positive
+17-Apr,1,Andaman and Nicobar Islands,1403,1210,12
+24-Apr,2,Andaman and Nicobar Islands,2679,,27
+27-Apr,3,Andaman and Nicobar Islands,2848,,33
+1-May,4,Andaman and Nicobar Islands,3754,,33
+16-May,5,Andaman and Nicobar Islands,6677,,33
+22-May,6,Andaman and Nicobar Islands,7263,7167,33
+2-Apr,1,Andhra Pradesh,1800,1175,132
+10-Apr,2,Andhra Pradesh,6374,6009,365
+11-Apr,3,Andhra Pradesh,6958,6577,381
+12-Apr,4,Andhra Pradesh,6958,6553,405
+13-Apr,5,Andhra Pradesh,8755,8323,432
+14-Apr,6,Andhra Pradesh,10505,10032,473
+15-Apr,7,Andhra Pradesh,11613,11088,525
+16-Apr,8,Andhra Pradesh,20235,19701,534
+17-Apr,9,Andhra Pradesh,20235,,572
+18-Apr,10,Andhra Pradesh,21450,20487,603
+19-Apr,11,Andhra Pradesh,26958,26311,647
+20-Apr,12,Andhra Pradesh,30733,30011,722
+21-Apr,13,Andhra Pradesh,35755,34998,757
+22-Apr,14,Andhra Pradesh,41512,40699,813
+23-Apr,15,Andhra Pradesh,48032,47139,893
+24-Apr,16,Andhra Pradesh,54338,53383,955
+25-Apr,17,Andhra Pradesh,61266,60250,1016
+26-Apr,18,Andhra Pradesh,68034,66937,1097
+27-Apr,19,Andhra Pradesh,74551,73374,1177
+28-Apr,20,Andhra Pradesh,80334,79075,1259
+29-Apr,21,Andhra Pradesh,88061,86729,1332
+30-Apr,22,Andhra Pradesh,94558,93155,1403
+1-May,23,Andhra Pradesh,102460,100997,1463
+2-May,24,Andhra Pradesh,108403,106878,1525
+3-May,25,Andhra Pradesh,114937,113354,1583
+4-May,26,Andhra Pradesh,125229,123579,1650
+5-May,27,Andhra Pradesh,133492,131775,1717
+6-May,28,Andhra Pradesh,141274,139497,1777
+7-May,29,Andhra Pradesh,149361,147528,1833
+8-May,30,Andhra Pradesh,156681,154794,1887
+9-May,31,Andhra Pradesh,165069,163139,1930
+10-May,32,Andhra Pradesh,173735,171755,1980
+11-May,33,Andhra Pradesh,181144,179126,2018
+12-May,34,Andhra Pradesh,191874,189823,2051
+13-May,35,Andhra Pradesh,201196,199059,2137
+14-May,36,Andhra Pradesh,210452,208247,2100
+15-May,37,Andhra Pradesh,219490,217183,2157
+17-May,38,Andhra Pradesh,238998,236618,2230
+18-May,39,Andhra Pradesh,248771,246279,2282
+19-May,40,Andhra Pradesh,258450,255961,2339
+20-May,41,Andhra Pradesh,267612,265052,2407
+21-May,42,Andhra Pradesh,275704,273099,2452
+22-May,43,Andhra Pradesh,284119,281452,2514
+23-May,44,Andhra Pradesh,292969,290255,2561
+24-May,45,Andhra Pradesh,304326,301529,2627
+25-May,46,Andhra Pradesh,314566,311680,2671
+26-May,47,Andhra Pradesh,322714,319731,2719
+27-May,48,Andhra Pradesh,332378,329261,2787
+28-May,49,Andhra Pradesh,342236,338991,2841
+29-May,50,Andhra Pradesh,353874,350544,2874
+30-May,51,Andhra Pradesh,363378,359917,2944
+31-May,52,Andhra Pradesh,372748,369177,3045
+1-Jun,53,Andhra Pradesh,383315,379639,3118
+2-Jun,54,Andhra Pradesh,395681,391890,3200
+3-Jun,55,Andhra Pradesh,403747,399776,3279
+4-Jun,56,Andhra Pradesh,413733,409621,3377
+5-Jun,57,Andhra Pradesh,423564,419314,3427
+6-Jun,58,Andhra Pradesh,436335,431875,3588
+7-Jun,59,Andhra Pradesh,454030,449371,3718
+9-Apr,1,Arunachal Pradesh,206,185,1
+14-Apr,2,Arunachal Pradesh,280,250,1
+17-Apr,3,Arunachal Pradesh,363,338,1
+18-Apr,4,Arunachal Pradesh,389,358,1
+20-Apr,5,Arunachal Pradesh,439,405,1
+21-Apr,6,Arunachal Pradesh,454,433,1
+22-Apr,7,Arunachal Pradesh,496,441,2
+24-Apr,8,Arunachal Pradesh,526,508,2
+26-Apr,9,Arunachal Pradesh,568,529,2
+27-Apr,10,Arunachal Pradesh,584,566,2
+28-Apr,11,Arunachal Pradesh,610,581,2
+29-Apr,12,Arunachal Pradesh,662,595,2
+30-Apr,13,Arunachal Pradesh,694,656,2
+1-May,14,Arunachal Pradesh,724,692,2
+3-May,15,Arunachal Pradesh,810,761,2
+4-May,16,Arunachal Pradesh,869,762,2
+5-May,17,Arunachal Pradesh,970,814,2
+6-May,18,Arunachal Pradesh,1039,857,2
+7-May,19,Arunachal Pradesh,1144,952,2
+8-May,20,Arunachal Pradesh,1354,1015,2
+9-May,21,Arunachal Pradesh,1597,1266,2
+10-May,22,Arunachal Pradesh,1823,1363,2
+11-May,23,Arunachal Pradesh,2078,1538,2
+12-May,24,Arunachal Pradesh,2257,1798,2
+13-May,25,Arunachal Pradesh,2483,1902,2
+14-May,26,Arunachal Pradesh,2677,2233,2
+15-May,27,Arunachal Pradesh,2942,2546,2
+16-May,28,Arunachal Pradesh,3163,2861,2
+17-May,29,Arunachal Pradesh,3349,2966,2
+18-May,30,Arunachal Pradesh,3662,3166,2
+19-May,31,Arunachal Pradesh,3941,3392,2
+20-May,32,Arunachal Pradesh,4157,3710,2
+21-May,33,Arunachal Pradesh,4438,3963,2
+22-May,34,Arunachal Pradesh,4844,4211,2
+23-May,35,Arunachal Pradesh,5206,4340,2
+24-May,36,Arunachal Pradesh,5428,4552,2
+25-May,37,Arunachal Pradesh,5997,4941,2
+26-May,38,Arunachal Pradesh,6319,5083,2
+27-May,39,Arunachal Pradesh,6436,5405,2
+28-May,40,Arunachal Pradesh,6984,5677,3
+29-May,41,Arunachal Pradesh,7488,6268,3
+30-May,42,Arunachal Pradesh,8017,6675,4
+31-May,43,Arunachal Pradesh,8283,7012,4
+1-Jun,44,Arunachal Pradesh,8768,7528,22
+2-Jun,45,Arunachal Pradesh,9079,7806,28
+3-Jun,46,Arunachal Pradesh,9551,7927,38
+4-Jun,47,Arunachal Pradesh,10025,8552,43
+5-Jun,48,Arunachal Pradesh,10790,8877,46
+6-Jun,49,Arunachal Pradesh,11261,9350,49
+2-Apr,1,Assam,962,819,16
+10-Apr,2,Assam,2863,2685,29
+11-Apr,3,Assam,3011,2842,29
+12-Apr,4,Assam,3138,2973,29
+14-Apr,5,Assam,3491,3267,31
+15-Apr,6,Assam,3613,3492,32
+16-Apr,7,Assam,4108,3803,34
+17-Apr,8,Assam,4236,4024,34
+18-Apr,9,Assam,4400,4199,34
+19-Apr,10,Assam,4865,4584,34
+20-Apr,11,Assam,5112,4937,34
+21-Apr,12,Assam,5514,5245,34
+24-Apr,13,Assam,6680,6391,35
+25-Apr,14,Assam,7159,6781,35
+26-Apr,15,Assam,7823,7474,35
+27-Apr,16,Assam,8117,7985,35
+29-Apr,17,Assam,9520,8771,37
+2-May,18,Assam,11623,10499,42
+4-May,19,Assam,12775,11764,42
+5-May,20,Assam,13442,12533,43
+9-May,21,Assam,16167,15076,59
+10-May,22,Assam,18002,16236,62
+11-May,23,Assam,19589,17813,64
+12-May,24,Assam,21791,19211,64
+14-May,25,Assam,25824,23178,86
+15-May,26,Assam,28178,25431,86
+16-May,27,Assam,31276,28332,91
+17-May,28,Assam,34376,32035,97
+18-May,29,Assam,37898,35159,106
+19-May,30,Assam,41116,38138,141
+20-May,31,Assam,47084,42729,170
+21-May,32,Assam,51730,46442,203
+22-May,33,Assam,55791,50450,259
+23-May,34,Assam,60405,54185,329
+24-May,35,Assam,66444,58972,378
+25-May,36,Assam,70029,62244,526
+26-May,37,Assam,72654,66562,616
+29-May,38,Assam,92390,84933,1024
+30-May,39,Assam,101257,91248,1185
+31-May,40,Assam,109097,101006,1272
+2-Jun,41,Assam,120375,111229,1513
+3-Jun,42,Assam,126726,117650,1672
+4-Jun,43,Assam,133029,122618,1988
+6-Jun,44,Assam,146605,136154,2397
+5-Apr,1,Bihar,3037,2299,32
+8-Apr,2,Bihar,4596,,38
+9-Apr,3,Bihar,4991,,43
+10-Apr,4,Bihar,5457,,60
+11-Apr,5,Bihar,6250,,61
+12-Apr,6,Bihar,6703,,64
+13-Apr,7,Bihar,7263,,65
+14-Apr,8,Bihar,7727,,62
+15-Apr,9,Bihar,8263,,66
+16-Apr,10,Bihar,8846,,72
+17-Apr,11,Bihar,9486,,83
+18-Apr,12,Bihar,10130,,85
+19-Apr,13,Bihar,10745,,92
+20-Apr,14,Bihar,11319,,96
+21-Apr,15,Bihar,11999,,115
+22-Apr,16,Bihar,12978,,136
+23-Apr,17,Bihar,13785,,148
+24-Apr,18,Bihar,14924,,176
+25-Apr,19,Bihar,15885,,238
+26-Apr,20,Bihar,17041,,255
+27-Apr,21,Bihar,18179,,328
+28-Apr,22,Bihar,19790,,346
+29-Apr,23,Bihar,21180,,383
+30-Apr,24,Bihar,22672,,409
+1-May,25,Bihar,24118,,466
+2-May,26,Bihar,25724,,476
+3-May,27,Bihar,26951,,485
+4-May,28,Bihar,28345,,525
+5-May,29,Bihar,28791,,529
+6-May,30,Bihar,29328,,539
+7-May,31,Bihar,29841,,547
+8-May,32,Bihar,30320,,564
+9-May,33,Bihar,31552,,585
+10-May,34,Bihar,32670,,653
+11-May,35,Bihar,34662,,714
+12-May,36,Bihar,37430,,796
+13-May,37,Bihar,39149,,909
+14-May,38,Bihar,40782,,970
+15-May,39,Bihar,42645,,1010
+16-May,40,Bihar,44340,,1083
+17-May,41,Bihar,45729,,1193
+18-May,42,Bihar,46996,,1391
+19-May,43,Bihar,50563,,1495
+20-May,44,Bihar,53361,,1607
+21-May,45,Bihar,55692,,1881
+22-May,46,Bihar,58481,,2098
+23-May,47,Bihar,61220,,2344
+24-May,48,Bihar,63741,,2507
+27-May,49,Bihar,68262,,3010
+28-May,50,Bihar,70275,,3106
+29-May,51,Bihar,72256,,3276
+30-May,52,Bihar,73929,,3511
+31-May,53,Bihar,75737,,3692
+1-Jun,54,Bihar,78090,,3872
+2-Jun,55,Bihar,81413,,4049
+3-Jun,56,Bihar,84729,,4273
+4-Jun,57,Bihar,88313,,4420
+5-Jun,58,Bihar,91903,,4551
+6-Jun,59,Bihar,95473,,4745
+7-Jun,60,Bihar,99108,,4972
+2-Apr,1,Chandigarh,124,98,18
+8-Apr,2,Chandigarh,184,162,18
+10-Apr,3,Chandigarh,223,199,19
+11-Apr,4,Chandigarh,264,223,19
+12-Apr,5,Chandigarh,279,247,21
+13-Apr,6,Chandigarh,296,263,21
+14-Apr,7,Chandigarh,309,285,21
+15-Apr,8,Chandigarh,317,293,21
+16-Apr,9,Chandigarh,337,315,21
+17-Apr,10,Chandigarh,358,335,21
+18-Apr,11,Chandigarh,381,348,23
+19-Apr,12,Chandigarh,430,388,26
+20-Apr,13,Chandigarh,453,417,26
+21-Apr,14,Chandigarh,497,445,27
+22-Apr,15,Chandigarh,529,492,27
+23-Apr,16,Chandigarh,599,557,27
+24-Apr,17,Chandigarh,638,603,27
+25-Apr,18,Chandigarh,734,668,28
+26-Apr,19,Chandigarh,756,677,30
+27-Apr,20,Chandigarh,843,777,40
+28-Apr,21,Chandigarh,924,857,56
+29-Apr,22,Chandigarh,1012,922,67
+30-Apr,23,Chandigarh,1147,1022,74
+1-May,24,Chandigarh,1252,1131,88
+2-May,25,Chandigarh,1462,1339,94
+3-May,26,Chandigarh,1616,1491,97
+4-May,27,Chandigarh,1678,1545,102
+5-May,28,Chandigarh,1713,1576,115
+6-May,29,Chandigarh,1785,1641,120
+7-May,30,Chandigarh,1845,1698,129
+8-May,31,Chandigarh,1913,1748,146
+9-May,32,Chandigarh,2055,1871,169
+10-May,33,Chandigarh,2142,1947,173
+11-May,34,Chandigarh,2177,1978,173
+12-May,35,Chandigarh,2276,2069,187
+13-May,36,Chandigarh,2420,2206,189
+14-May,37,Chandigarh,2505,2299,191
+15-May,38,Chandigarh,2586,2383,191
+16-May,39,Chandigarh,2718,2513,191
+17-May,40,Chandigarh,2812,2604,191
+18-May,41,Chandigarh,2892,2663,196
+19-May,42,Chandigarh,3031,2783,199
+21-May,43,Chandigarh,3369,3125,216
+22-May,44,Chandigarh,3531,3234,219
+23-May,45,Chandigarh,3749,3390,225
+24-May,46,Chandigarh,3904,3514,238
+25-May,47,Chandigarh,4089,3695,266
+26-May,48,Chandigarh,4207,3828,278
+27-May,49,Chandigarh,4332,3991,279
+28-May,50,Chandigarh,4467,4138,289
+29-May,51,Chandigarh,4543,4222,289
+30-May,52,Chandigarh,4654,4342,289
+31-May,53,Chandigarh,4785,4478,293
+1-Jun,54,Chandigarh,4816,4495,294
+2-Jun,55,Chandigarh,4902,4573,301
+3-Jun,56,Chandigarh,4977,4658,301
+4-Jun,57,Chandigarh,5059,4735,302
+5-Jun,58,Chandigarh,5121,4793,309
+6-Jun,59,Chandigarh,5237,4906,309
+7-Jun,60,Chandigarh,5312,4977,314
+2-Apr,1,Chhattisgarh,1232,921,9
+10-Apr,2,Chhattisgarh,3473,3322,18
+11-Apr,3,Chhattisgarh,3858,3503,18
+12-Apr,4,Chhattisgarh,3945,3856,31
+13-Apr,5,Chhattisgarh,4377,3969,31
+14-Apr,6,Chhattisgarh,4812,4319,33
+15-Apr,7,Chhattisgarh,5122,4878,33
+16-Apr,8,Chhattisgarh,5519,5168,33
+17-Apr,9,Chhattisgarh,5776,5484,36
+18-Apr,10,Chhattisgarh,5776,5484,36
+19-Apr,11,Chhattisgarh,6675,6086,36
+20-Apr,12,Chhattisgarh,7601,7029,36
+21-Apr,13,Chhattisgarh,8272,7555,36
+22-Apr,14,Chhattisgarh,9220,8296,36
+23-Apr,15,Chhattisgarh,10346,9206,36
+24-Apr,16,Chhattisgarh,11386,10213,36
+25-Apr,17,Chhattisgarh,12596,11168,37
+26-Apr,18,Chhattisgarh,13786,12406,37
+27-Apr,19,Chhattisgarh,14987,13882,37
+28-Apr,20,Chhattisgarh,15737,14953,38
+29-Apr,21,Chhattisgarh,16546,15658,38
+30-Apr,22,Chhattisgarh,17541,16602,40
+1-May,23,Chhattisgarh,18039,17199,43
+3-May,24,Chhattisgarh,19902,18848,57
+5-May,25,Chhattisgarh,21323,20300,58
+6-May,26,Chhattisgarh,22188,20873,59
+8-May,27,Chhattisgarh,23629,22509,59
+9-May,28,Chhattisgarh,24506,23326,59
+10-May,29,Chhattisgarh,25282,24186,59
+12-May,30,Chhattisgarh,27339,25741,59
+13-May,31,Chhattisgarh,28837,27012,59
+14-May,32,Chhattisgarh,29697,28234,59
+15-May,33,Chhattisgarh,31341,29812,66
+16-May,34,Chhattisgarh,32678,31275,67
+18-May,35,Chhattisgarh,36606,34656,93
+19-May,36,Chhattisgarh,39010,36586,100
+21-May,37,Chhattisgarh,45522,42618,128
+22-May,38,Chhattisgarh,48116,45022,172
+23-May,39,Chhattisgarh,49763,46894,214
+25-May,40,Chhattisgarh,55022,52598,292
+26-May,41,Chhattisgarh,57479,55539,360
+27-May,42,Chhattisgarh,59320,57283,364
+28-May,43,Chhattisgarh,61771,59585,398
+29-May,44,Chhattisgarh,63992,62983,415
+30-May,45,Chhattisgarh,66417,64762,447
+31-May,46,Chhattisgarh,69152,67268,492
+1-Jun,47,Chhattisgarh,74696,73294,545
+2-Jun,48,Chhattisgarh,77168,75151,567
+3-Jun,49,Chhattisgarh,80416,77639,626
+4-Jun,50,Chhattisgarh,82941,79452,773
+5-Jun,51,Chhattisgarh,85743,82083,863
+6-Jun,52,Chhattisgarh,89392,84517,923
+7-Jun,53,Chhattisgarh,88896,84344,1071
+9-Apr,1,Dadra and Nagar Haveli and Daman and Diu,80,80,0
+10-Apr,2,Dadra and Nagar Haveli and Daman and Diu,130,130,0
+11-Apr,3,Dadra and Nagar Haveli and Daman and Diu,211,211,0
+15-Apr,4,Dadra and Nagar Haveli and Daman and Diu,356,356,0
+16-Apr,5,Dadra and Nagar Haveli and Daman and Diu,382,382,0
+21-Apr,6,Dadra and Nagar Haveli and Daman and Diu,474,474,0
+22-Apr,7,Dadra and Nagar Haveli and Daman and Diu,674,674,0
+23-Apr,8,Dadra and Nagar Haveli and Daman and Diu,913,913,0
+25-Apr,9,Dadra and Nagar Haveli and Daman and Diu,1386,1386,0
+26-Apr,10,Dadra and Nagar Haveli and Daman and Diu,1901,1901,0
+27-Apr,11,Dadra and Nagar Haveli and Daman and Diu,2379,2379,0
+29-Apr,12,Dadra and Nagar Haveli and Daman and Diu,2921,2921,0
+30-Apr,13,Dadra and Nagar Haveli and Daman and Diu,3464,3464,0
+1-May,14,Dadra and Nagar Haveli and Daman and Diu,4003,4003,0
+3-May,15,Dadra and Nagar Haveli and Daman and Diu,4328,4328,0
+4-May,16,Dadra and Nagar Haveli and Daman and Diu,4434,4434,0
+5-May,17,Dadra and Nagar Haveli and Daman and Diu,4781,4780,1
+6-May,18,Dadra and Nagar Haveli and Daman and Diu,4967,4966,1
+7-May,19,Dadra and Nagar Haveli and Daman and Diu,5272,5271,1
+8-May,20,Dadra and Nagar Haveli and Daman and Diu,5430,5429,1
+10-May,21,Dadra and Nagar Haveli and Daman and Diu,5581,5580,1
+11-May,22,Dadra and Nagar Haveli and Daman and Diu,5763,5762,1
+12-May,23,Dadra and Nagar Haveli and Daman and Diu,5977,5976,1
+13-May,24,Dadra and Nagar Haveli and Daman and Diu,6294,6293,1
+14-May,25,Dadra and Nagar Haveli and Daman and Diu,6554,6553,1
+15-May,26,Dadra and Nagar Haveli and Daman and Diu,6916,6915,1
+17-May,27,Dadra and Nagar Haveli and Daman and Diu,7157,7156,1
+18-May,28,Dadra and Nagar Haveli and Daman and Diu,7571,7570,1
+19-May,29,Dadra and Nagar Haveli and Daman and Diu,7829,7828,1
+20-May,30,Dadra and Nagar Haveli and Daman and Diu,8137,8136,1
+21-May,31,Dadra and Nagar Haveli and Daman and Diu,8456,8455,1
+22-May,32,Dadra and Nagar Haveli and Daman and Diu,8979,8978,1
+23-May,33,Dadra and Nagar Haveli and Daman and Diu,9298,9296,2
+24-May,34,Dadra and Nagar Haveli and Daman and Diu,9678,9676,2
+25-May,35,Dadra and Nagar Haveli and Daman and Diu,10085,10083,2
+26-May,36,Dadra and Nagar Haveli and Daman and Diu,10388,10386,2
+27-May,37,Dadra and Nagar Haveli and Daman and Diu,10872,10870,2
+28-May,38,Dadra and Nagar Haveli and Daman and Diu,11177,11175,2
+29-May,39,Dadra and Nagar Haveli and Daman and Diu,11477,11475,2
+1-Jun,40,Dadra and Nagar Haveli and Daman and Diu,11693,11690,3
+3-Jun,41,Dadra and Nagar Haveli and Daman and Diu,12064,12052,12
+4-Jun,42,Dadra and Nagar Haveli and Daman and Diu,12375,12361,14
+5-Jun,43,Dadra and Nagar Haveli and Daman and Diu,13667,13653,14
+6-Jun,44,Dadra and Nagar Haveli and Daman and Diu,14780,14761,19
+7-Jun,45,Dadra and Nagar Haveli and Daman and Diu,15546,14926,20
+1-Apr,1,Delhi,2621,,
+7-Apr,2,Delhi,9041,7308,576
+9-Apr,3,Delhi,9968,8643,720
+10-Apr,4,Delhi,11061,9662,903
+11-Apr,5,Delhi,11709,10218,1069
+12-Apr,6,Delhi,14036,11748,1154
+13-Apr,7,Delhi,15032,12283,1510
+14-Apr,8,Delhi,16282,13748,1561
+15-Apr,9,Delhi,16605,13865,1578
+16-Apr,10,Delhi,18784,14692,1640
+17-Apr,11,Delhi,21409,16899,1707
+18-Apr,12,Delhi,22283,17449,1893
+19-Apr,13,Delhi,24387,19393,2003
+20-Apr,14,Delhi,25900,20712,2081
+21-Apr,15,Delhi,26627,21810,2156
+22-Apr,16,Delhi,28309,22713,2248
+23-Apr,17,Delhi,30560,24538,2375
+24-Apr,18,Delhi,33672,26552,2514
+25-Apr,19,Delhi,35519,28693,2625
+26-Apr,20,Delhi,37613,31919,2918
+27-Apr,21,Delhi,39911,34145,3108
+28-Apr,22,Delhi,43370,36195,3314
+29-Apr,23,Delhi,47225,39920,3439
+2-May,24,Delhi,58210,,4122
+3-May,25,Delhi,60246,,4549
+4-May,26,Delhi,64108,,4898
+5-May,27,Delhi,67852,,5104
+6-May,28,Delhi,71934,,5532
+7-May,29,Delhi,77234,,5980
+8-May,30,Delhi,81367,,6318
+9-May,31,Delhi,84226,,6542
+10-May,32,Delhi,93810,,6923
+11-May,33,Delhi,97678,,7233
+12-May,34,Delhi,106109,,7639
+13-May,35,Delhi,113345,,7998
+14-May,36,Delhi,119736,,8470
+15-May,37,Delhi,125189,,8895
+16-May,38,Delhi,130845,,9333
+17-May,39,Delhi,135791,,9755
+18-May,40,Delhi,139727,,10054
+19-May,41,Delhi,145854,,10554
+20-May,42,Delhi,150282,,11088
+21-May,43,Delhi,154385,,11659
+22-May,44,Delhi,160255,,12319
+23-May,45,Delhi,165047,,12910
+24-May,46,Delhi,169873,,13418
+25-May,47,Delhi,174469,,14053
+26-May,48,Delhi,178579,,14465
+27-May,49,Delhi,184362,,15257
+28-May,50,Delhi,191977,,16281
+29-May,51,Delhi,199626,,17386
+30-May,52,Delhi,206739,,18549
+31-May,53,Delhi,212784,,19844
+1-Jun,54,Delhi,217537,,20834
+2-Jun,55,Delhi,223607,,22132
+3-Jun,56,Delhi,230145,,23645
+4-Jun,57,Delhi,236506,,25004
+5-Jun,58,Delhi,241693,,26334
+6-Jun,59,Delhi,246873,,27654
+7-Jun,60,Delhi,251915,,28936
+2-Apr,1,Goa,220,197,5
+9-Apr,2,Goa,344,,7
+10-Apr,3,Goa,354,,7
+12-Apr,4,Goa,406,,7
+13-Apr,5,Goa,440,,7
+14-Apr,6,Goa,479,,7
+15-Apr,7,Goa,556,,7
+16-Apr,8,Goa,611,,7
+17-Apr,9,Goa,673,,7
+18-Apr,10,Goa,758,,7
+19-Apr,11,Goa,826,,7
+20-Apr,12,Goa,901,,7
+21-Apr,13,Goa,1004,,7
+22-Apr,14,Goa,1116,,7
+23-Apr,15,Goa,1206,,7
+27-Apr,16,Goa,1541,,7
+28-Apr,17,Goa,1776,,7
+29-Apr,18,Goa,1871,,7
+30-Apr,19,Goa,2031,,7
+1-May,20,Goa,2181,,7
+2-May,21,Goa,2372,,7
+3-May,22,Goa,2548,,7
+4-May,23,Goa,2899,,7
+5-May,24,Goa,3096,,7
+6-May,25,Goa,3411,,7
+8-May,26,Goa,4140,,7
+9-May,27,Goa,4524,,7
+10-May,28,Goa,4848,,7
+11-May,29,Goa,5307,,7
+14-May,30,Goa,6736,,7
+15-May,31,Goa,7304,,7
+16-May,32,Goa,8011,,20
+17-May,33,Goa,8785,,29
+18-May,34,Goa,8785,,29
+19-May,35,Goa,9549,,46
+20-May,36,Goa,10136,,50
+21-May,37,Goa,10859,,52
+22-May,38,Goa,11362,,54
+23-May,39,Goa,11945,,55
+24-May,40,Goa,12499,,66
+25-May,41,Goa,12860,,67
+26-May,42,Goa,13303,,67
+27-May,43,Goa,13911,,68
+28-May,44,Goa,14782,,69
+29-May,45,Goa,16141,,69
+30-May,46,Goa,17871,,70
+31-May,47,Goa,19491,,71
+1-Jun,48,Goa,20780,,73
+2-Jun,49,Goa,22378,,79
+3-Jun,50,Goa,23816,,126
+4-Jun,51,Goa,25300,,166
+5-Jun,52,Goa,26208,,196
+6-Jun,53,Goa,27402,26284,267
+7-Jun,54,Goa,29739,,300
+8-Apr,1,Gujarat,4224,3905,186
+10-Apr,2,Gujarat,7718,7237,378
+11-Apr,3,Gujarat,9763,8888,468
+12-Apr,4,Gujarat,11715,10867,516
+13-Apr,5,Gujarat,14251,12970,572
+14-Apr,6,Gujarat,14980,14363,617
+15-Apr,7,Gujarat,19197,18431,766
+16-Apr,8,Gujarat,20903,19974,929
+17-Apr,9,Gujarat,23483,22339,1099
+18-Apr,10,Gujarat,26102,24726,1376
+19-Apr,11,Gujarat,29104,27361,1743
+20-Apr,12,Gujarat,33316,31377,1939
+21-Apr,13,Gujarat,36829,34651,2178
+22-Apr,14,Gujarat,39421,37014,2407
+23-Apr,15,Gujarat,42384,39760,2624
+24-Apr,16,Gujarat,46743,41007,2815
+25-Apr,17,Gujarat,48315,45254,3061
+26-Apr,18,Gujarat,51091,47790,3301
+27-Apr,19,Gujarat,53575,50028,3547
+28-Apr,20,Gujarat,56101,52327,3774
+29-Apr,21,Gujarat,59488,55406,4082
+30-Apr,22,Gujarat,64007,59612,4395
+1-May,23,Gujarat,68774,64053,4721
+2-May,24,Gujarat,74116,69062,5054
+3-May,25,Gujarat,80060,74632,5428
+4-May,26,Gujarat,84648,78844,5804
+5-May,27,Gujarat,89632,83387,6245
+6-May,28,Gujarat,95191,88566,6625
+7-May,29,Gujarat,100553,93540,7013
+8-May,30,Gujarat,105386,97984,7403
+9-May,31,Gujarat,109650,101853,7797
+10-May,32,Gujarat,113493,105298,8195
+11-May,33,Gujarat,116470,107929,8541
+12-May,34,Gujarat,119536,110633,8903
+13-May,35,Gujarat,122297,113029,9268
+14-May,36,Gujarat,124708,115117,9591
+15-May,37,Gujarat,127859,117927,9932
+16-May,38,Gujarat,138407,127418,10989
+17-May,39,Gujarat,143600,132220,11380
+18-May,40,Gujarat,148824,137078,11746
+19-May,41,Gujarat,154674,142533,12141
+20-May,42,Gujarat,160772,148233,12539
+21-May,43,Gujarat,166152,153242,12910
+22-May,44,Gujarat,172562,159289,13273
+23-May,45,Gujarat,178068,164399,13669
+24-May,46,Gujarat,182868,168806,14056
+25-May,47,Gujarat,186361,171893,14468
+26-May,48,Gujarat,189313,,14821
+27-May,49,Gujarat,193863,,15203
+28-May,50,Gujarat,198048,,15572
+29-May,51,Gujarat,201481,,15944
+30-May,52,Gujarat,205780,,16356
+31-May,53,Gujarat,211930,,16794
+1-Jun,54,Gujarat,216258,,17217
+2-Jun,55,Gujarat,221610,,17632
+3-Jun,56,Gujarat,227898,,18117
+4-Jun,57,Gujarat,233921,,18609
+5-Jun,58,Gujarat,239911,,19119
+6-Jun,59,Gujarat,245606,,19617
+7-Jun,60,Gujarat,251686,,20097
+3-Apr,1,Haryana,1325,938,44
+7-Apr,2,Haryana,2520,1821,141
+8-Apr,3,Haryana,2650,1885,153
+9-Apr,4,Haryana,2964,2017,156
+10-Apr,5,Haryana,3527,2447,162
+11-Apr,6,Haryana,3663,2472,165
+12-Apr,7,Haryana,3903,2513,181
+13-Apr,8,Haryana,4489,2961,182
+14-Apr,9,Haryana,5210,3681,184
+15-Apr,10,Haryana,7388,5581,190
+16-Apr,11,Haryana,8064,6465,214
+17-Apr,12,Haryana,8884,7148,223
+18-Apr,13,Haryana,10454,8093,232
+19-Apr,14,Haryana,12687,10230,250
+20-Apr,15,Haryana,13894,11523,251
+21-Apr,16,Haryana,14562,12253,255
+22-Apr,17,Haryana,15561,13397,264
+23-Apr,18,Haryana,17582,15452,270
+24-Apr,19,Haryana,18845,16642,275
+25-Apr,20,Haryana,20270,17787,287
+26-Apr,21,Haryana,21467,19241,296
+27-Apr,22,Haryana,22993,20702,301
+28-Apr,23,Haryana,24826,22578,308
+29-Apr,24,Haryana,26148,24071,311
+30-Apr,25,Haryana,28202,25929,339
+1-May,26,Haryana,30191,27784,357
+2-May,27,Haryana,31200,28867,369
+3-May,28,Haryana,35278,32583,442
+4-May,29,Haryana,38183,34501,517
+5-May,30,Haryana,40982,36806,548
+6-May,31,Haryana,43279,38590,594
+7-May,32,Haryana,46495,41861,625
+8-May,33,Haryana,49746,43974,647
+9-May,34,Haryana,53282,48468,675
+10-May,35,Haryana,56983,51046,703
+11-May,36,Haryana,59735,53697,730
+12-May,37,Haryana,62377,56440,780
+13-May,38,Haryana,65785,59890,793
+14-May,39,Haryana,69191,63791,818
+15-May,40,Haryana,72326,66687,854
+16-May,41,Haryana,75097,69660,887
+17-May,42,Haryana,78029,72494,910
+18-May,43,Haryana,80698,75045,928
+19-May,44,Haryana,82544,77296,964
+20-May,45,Haryana,83944,78379,970
+21-May,46,Haryana,88138,82372,1031
+22-May,47,Haryana,91119,85317,1067
+23-May,48,Haryana,94035,88051,1131
+24-May,49,Haryana,97006,91138,1184
+25-May,50,Haryana,99987,94725,1213
+26-May,51,Haryana,102018,97350,1305
+27-May,52,Haryana,104747,99555,1381
+28-May,53,Haryana,108031,102260,1504
+29-May,54,Haryana,110940,105169,1721
+30-May,55,Haryana,114683,108385,1923
+31-May,56,Haryana,118138,11709,2091
+1-Jun,57,Haryana,121779,114792,2356
+2-Jun,58,Haryana,124564,117340,2652
+3-Jun,59,Haryana,127895,120393,2954
+4-Jun,60,Haryana,132575,124769,3281
+5-Jun,61,Haryana,137452,129027,3597
+6-Jun,62,Haryana,141688,132684,3952
+7-Jun,63,Haryana,145722,136555,4448
+10-Apr,1,Himachal Pradesh,900,870,30
+11-Apr,2,Himachal Pradesh,900,870,30
+12-Apr,3,Himachal Pradesh,1113,944,32
+13-Apr,4,Himachal Pradesh,1210,1109,32
+14-Apr,5,Himachal Pradesh,1311,1232,32
+15-Apr,6,Himachal Pradesh,1426,1391,35
+16-Apr,7,Himachal Pradesh,1604,1559,35
+17-Apr,8,Himachal Pradesh,1992,1740,36
+18-Apr,9,Himachal Pradesh,2207,2091,39
+19-Apr,10,Himachal Pradesh,2553,2337,39
+20-Apr,11,Himachal Pradesh,2892,2714,39
+21-Apr,12,Himachal Pradesh,3341,2933,39
+22-Apr,13,Himachal Pradesh,3700,3510,39
+23-Apr,14,Himachal Pradesh,4020,3943,40
+24-Apr,15,Himachal Pradesh,4328,4160,40
+25-Apr,16,Himachal Pradesh,4623,4363,40
+26-Apr,17,Himachal Pradesh,4901,4794,40
+27-Apr,18,Himachal Pradesh,5106,5022,40
+28-Apr,19,Himachal Pradesh,5391,5344,40
+29-Apr,20,Himachal Pradesh,5772,5726,40
+30-Apr,21,Himachal Pradesh,6133,6091,40
+1-May,22,Himachal Pradesh,6472,6432,40
+2-May,23,Himachal Pradesh,6836,6791,40
+3-May,24,Himachal Pradesh,7185,7133,40
+4-May,25,Himachal Pradesh,7430,7320,41
+5-May,26,Himachal Pradesh,7893,7800,42
+6-May,27,Himachal Pradesh,8491,8055,43
+7-May,28,Himachal Pradesh,9005,8833,46
+8-May,29,Himachal Pradesh,9522,9434,50
+9-May,30,Himachal Pradesh,10208,10047,52
+10-May,31,Himachal Pradesh,10791,10343,55
+11-May,32,Himachal Pradesh,11267,11016,59
+12-May,33,Himachal Pradesh,12224,11846,66
+13-May,34,Himachal Pradesh,13190,12867,67
+14-May,35,Himachal Pradesh,14256,13307,70
+15-May,36,Himachal Pradesh,15557,15076,76
+16-May,37,Himachal Pradesh,16534,16079,78
+17-May,38,Himachal Pradesh,17417,17049,80
+18-May,39,Himachal Pradesh,18224,17946,90
+19-May,40,Himachal Pradesh,19645,18994,92
+20-May,41,Himachal Pradesh,21147,20449,110
+21-May,42,Himachal Pradesh,22641,21812,152
+22-May,43,Himachal Pradesh,24246,23307,168
+23-May,44,Himachal Pradesh,25905,24625,185
+24-May,45,Himachal Pradesh,27288,26524,203
+25-May,46,Himachal Pradesh,28346,27596,223
+26-May,47,Himachal Pradesh,29379,28989,247
+27-May,48,Himachal Pradesh,30852,30019,273
+28-May,49,Himachal Pradesh,32449,31655,281
+29-May,50,Himachal Pradesh,33979,33486,295
+30-May,51,Himachal Pradesh,35668,34933,313
+31-May,52,Himachal Pradesh,37168,36618,331
+1-Jun,53,Himachal Pradesh,37897,37233,340
+2-Jun,54,Himachal Pradesh,39620,38993,345
+3-Jun,55,Himachal Pradesh,41351,40621,359
+4-Jun,56,Himachal Pradesh,42703,42081,383
+5-Jun,57,Himachal Pradesh,43688,43149,393
+6-Jun,58,Himachal Pradesh,44509,43942,400
+7-Jun,59,Himachal Pradesh,45888,45254,411
+5-Apr,1,Jammu and Kashmir,1551,1429,106
+10-Apr,2,Jammu and Kashmir,2961,2754,207
+11-Apr,3,Jammu and Kashmir,3206,2982,224
+12-Apr,4,Jammu and Kashmir,3600,3355,245
+13-Apr,5,Jammu and Kashmir,4065,3795,270
+14-Apr,6,Jammu and Kashmir,4619,4341,278
+15-Apr,7,Jammu and Kashmir,5171,4871,300
+16-Apr,8,Jammu and Kashmir,5680,5366,314
+17-Apr,9,Jammu and Kashmir,6438,6110,328
+18-Apr,10,Jammu and Kashmir,6937,6596,341
+19-Apr,11,Jammu and Kashmir,7895,7545,350
+20-Apr,12,Jammu and Kashmir,8612,8244,368
+21-Apr,13,Jammu and Kashmir,9220,8840,380
+22-Apr,14,Jammu and Kashmir,10039,9632,407
+23-Apr,15,Jammu and Kashmir,10977,10550,427
+24-Apr,16,Jammu and Kashmir,11764,11310,454
+25-Apr,17,Jammu and Kashmir,12835,12341,494
+26-Apr,18,Jammu and Kashmir,13959,13436,523
+27-Apr,19,Jammu and Kashmir,14988,14442,546
+28-Apr,20,Jammu and Kashmir,16619,16054,565
+29-Apr,21,Jammu and Kashmir,18450,17869,581
+30-Apr,22,Jammu and Kashmir,19746,19132,614
+1-May,23,Jammu and Kashmir,21695,21056,639
+2-May,24,Jammu and Kashmir,23406,22794,666
+3-May,25,Jammu and Kashmir,26038,25337,701
+4-May,26,Jammu and Kashmir,28199,27473,726
+5-May,27,Jammu and Kashmir,31312,30571,741
+6-May,28,Jammu and Kashmir,34277,33502,775
+7-May,29,Jammu and Kashmir,37706,36913,793
+8-May,30,Jammu and Kashmir,42427,41604,823
+9-May,31,Jammu and Kashmir,44753,43917,836
+10-May,32,Jammu and Kashmir,47080,46291,861
+11-May,33,Jammu and Kashmir,51334,50455,879
+12-May,34,Jammu and Kashmir,53726,52792,934
+13-May,35,Jammu and Kashmir,57111,56140,971
+14-May,36,Jammu and Kashmir,63515,62532,983
+15-May,37,Jammu and Kashmir,70306,69293,1013
+16-May,38,Jammu and Kashmir,76191,75070,1121
+17-May,39,Jammu and Kashmir,80934,79751,1183
+18-May,40,Jammu and Kashmir,88601,87312,1289
+19-May,41,Jammu and Kashmir,96826,95509,1317
+20-May,42,Jammu and Kashmir,101950,100560,1390
+21-May,43,Jammu and Kashmir,107108,105659,1449
+22-May,44,Jammu and Kashmir,114859,113370,1489
+23-May,45,Jammu and Kashmir,124074,122505,1569
+24-May,46,Jammu and Kashmir,130433,128812,1621
+25-May,47,Jammu and Kashmir,134188,132520,1668
+26-May,48,Jammu and Kashmir,140962,139203,1759
+27-May,49,Jammu and Kashmir,145162,143241,1921
+28-May,50,Jammu and Kashmir,153522,151486,2036
+29-May,51,Jammu and Kashmir,158729,156565,2164
+30-May,52,Jammu and Kashmir,164581,162240,2341
+31-May,53,Jammu and Kashmir,171045,168599,2446
+1-Jun,54,Jammu and Kashmir,176309,173708,2601
+2-Jun,55,Jammu and Kashmir,183067,180349,2718
+3-Jun,56,Jammu and Kashmir,189364,186507,2857
+4-Jun,57,Jammu and Kashmir,195677,192535,3142
+5-Jun,58,Jammu and Kashmir,202257,198933,3324
+6-Jun,59,Jammu and Kashmir,211880,208413,3467
+7-Jun,60,Jammu and Kashmir,218481,214394,4087
+10-Apr,1,Jharkhand,1340,1326,14
+11-Apr,2,Jharkhand,1546,1529,17
+12-Apr,3,Jharkhand,1683,1666,17
+13-Apr,4,Jharkhand,1982,1963,19
+14-Apr,5,Jharkhand,2334,2307,27
+17-Apr,6,Jharkhand,3143,3111,32
+18-Apr,7,Jharkhand,3431,3398,33
+19-Apr,8,Jharkhand,3646,3608,38
+20-Apr,9,Jharkhand,4235,4190,45
+22-Apr,10,Jharkhand,5176,5127,49
+23-Apr,11,Jharkhand,5380,5327,53
+24-Apr,12,Jharkhand,6162,6105,57
+25-Apr,13,Jharkhand,6970,6903,67
+26-Apr,14,Jharkhand,7806,7724,82
+27-Apr,15,Jharkhand,8757,8654,103
+28-Apr,16,Jharkhand,9408,9303,105
+29-Apr,17,Jharkhand,10268,10161,107
+30-Apr,18,Jharkhand,10987,10878,109
+1-May,19,Jharkhand,11771,11658,113
+2-May,20,Jharkhand,12393,12278,115
+3-May,21,Jharkhand,13055,12940,115
+4-May,22,Jharkhand,13832,13717,115
+5-May,23,Jharkhand,15064,14939,125
+6-May,24,Jharkhand,15908,15799,127
+7-May,25,Jharkhand,17101,16969,132
+8-May,26,Jharkhand,17219,17087,132
+9-May,27,Jharkhand,18632,18478,154
+10-May,28,Jharkhand,20832,20675,157
+11-May,29,Jharkhand,21201,21041,160
+12-May,30,Jharkhand,22815,22651,164
+13-May,31,Jharkhand,25769,25592,177
+14-May,32,Jharkhand,27789,27592,197
+15-May,33,Jharkhand,29236,29025,211
+16-May,34,Jharkhand,31025,30808,217
+17-May,35,Jharkhand,33220,32997,223
+18-May,36,Jharkhand,35359,35131,228
+19-May,37,Jharkhand,37589,37341,248
+20-May,38,Jharkhand,39402,39121,281
+21-May,39,Jharkhand,41936,41633,303
+22-May,40,Jharkhand,43988,43665,323
+23-May,41,Jharkhand,45785,45435,350
+24-May,42,Jharkhand,48641,48271,370
+25-May,43,Jharkhand,50709,50304,405
+26-May,44,Jharkhand,53309,52883,426
+27-May,45,Jharkhand,55427,54969,458
+28-May,46,Jharkhand,57250,56781,469
+29-May,47,Jharkhand,59452,58931,521
+30-May,48,Jharkhand,62916,62353,563
+31-May,49,Jharkhand,65886,65256,610
+1-Jun,50,Jharkhand,69187,68526,661
+2-Jun,51,Jharkhand,71296,70584,712
+3-Jun,52,Jharkhand,74499,73735,764
+4-Jun,53,Jharkhand,77641,76814,827
+5-Jun,54,Jharkhand,80097,79175,922
+6-Jun,55,Jharkhand,84444,83416,1028
+7-Jun,56,Jharkhand,87721,86618,1103
+3-Apr,1,Karnataka,4587,4281,128
+7-Apr,2,Karnataka,6580,5942,175
+8-Apr,3,Karnataka,6967,6473,181
+9-Apr,4,Karnataka,7613,7176,197
+10-Apr,5,Karnataka,7975,7673,207
+11-Apr,6,Karnataka,8560,8231,215
+12-Apr,7,Karnataka,9251,8831,232
+13-Apr,8,Karnataka,10017,9572,247
+14-Apr,9,Karnataka,11107,10554,260
+15-Apr,10,Karnataka,12483,11905,279
+16-Apr,11,Karnataka,13724,13074,315
+17-Apr,12,Karnataka,17594,14606,359
+18-Apr,13,Karnataka,19186,15658,384
+19-Apr,14,Karnataka,21367,17662,390
+20-Apr,15,Karnataka,23460,19497,408
+21-Apr,16,Karnataka,26233,22222,418
+22-Apr,17,Karnataka,29512,25424,427
+23-Apr,18,Karnataka,32122,28174,445
+24-Apr,19,Karnataka,35958,31914,474
+25-Apr,20,Karnataka,39083,34888,500
+26-Apr,21,Karnataka,42964,38207,503
+27-Apr,22,Karnataka,45685,43791,512
+28-Apr,23,Karnataka,50512,48508,523
+29-Apr,24,Karnataka,55404,53241,535
+30-Apr,25,Karnataka,60156,57548,565
+1-May,26,Karnataka,64898,61855,589
+2-May,27,Karnataka,69730,66475,601
+3-May,28,Karnataka,74898,70998,614
+4-May,29,Karnataka,79193,74664,651
+5-May,30,Karnataka,83806,78860,673
+6-May,31,Karnataka,88777,83056,693
+7-May,32,Karnataka,93535,87756,705
+8-May,33,Karnataka,98081,92237,753
+9-May,34,Karnataka,103098,97326,794
+10-May,35,Karnataka,107311,102266,848
+11-May,36,Karnataka,111595,106467,862
+12-May,37,Karnataka,116533,111264,925
+13-May,38,Karnataka,121178,119420,959
+14-May,39,Karnataka,128373,126766,987
+15-May,40,Karnataka,133724,132074,1056
+16-May,41,Karnataka,140024,138216,1092
+17-May,42,Karnataka,145398,143444,1147
+18-May,43,Karnataka,151663,149566,1246
+19-May,44,Karnataka,158599,156247,1395
+20-May,45,Karnataka,166781,164199,1462
+21-May,46,Karnataka,174297,171484,1605
+22-May,47,Karnataka,186526,183088,1743
+23-May,48,Karnataka,196196,192127,1959
+24-May,49,Karnataka,206313,201978,2089
+25-May,50,Karnataka,219894,215308,2182
+26-May,51,Karnataka,228914,223477,2283
+27-May,52,Karnataka,241608,235876,2418
+28-May,53,Karnataka,252078,246115,2533
+29-May,54,Karnataka,264489,258130,2781
+30-May,55,Karnataka,280217,273404,2922
+31-May,56,Karnataka,293575,286245,3221
+1-Jun,57,Karnataka,304816,297052,3408
+2-Jun,58,Karnataka,319628,310967,3796
+3-Jun,59,Karnataka,334825,325686,4063
+4-Jun,60,Karnataka,347093,337154,4320
+5-Jun,61,Karnataka,360720,349951,4835
+6-Jun,62,Karnataka,372582,361382,5213
+7-Jun,63,Karnataka,384442,372399,5452
+1-Apr,1,Kerala,7965,7256,265
+2-Apr,2,Kerala,8456,7622,286
+3-Apr,3,Kerala,9139,8126,295
+4-Apr,4,Kerala,9744,8586,306
+5-Apr,5,Kerala,10221,9300,314
+6-Apr,6,Kerala,10716,9607,327
+7-Apr,7,Kerala,11232,10250,336
+8-Apr,8,Kerala,11986,10906,354
+9-Apr,9,Kerala,12710,11469,357
+10-Apr,10,Kerala,13339,12335,364
+11-Apr,11,Kerala,14163,12818,373
+12-Apr,12,Kerala,14989,13802,375
+13-Apr,13,Kerala,15683,14829,378
+14-Apr,14,Kerala,16235,15488,386
+15-Apr,15,Kerala,16475,16002,387
+16-Apr,16,Kerala,17400,16459,394
+17-Apr,17,Kerala,18029,17279,395
+18-Apr,18,Kerala,18774,17763,399
+19-Apr,19,Kerala,19351,18547,401
+20-Apr,20,Kerala,19756,19074,408
+21-Apr,21,Kerala,20252,19442,426
+22-Apr,22,Kerala,20821,19998,437
+23-Apr,23,Kerala,21334,20326,447
+24-Apr,24,Kerala,21940,20830,450
+25-Apr,25,Kerala,22360,21475,457
+26-Apr,26,Kerala,22954,21997,468
+27-Apr,27,Kerala,24146,23148,481
+28-Apr,28,Kerala,24855,24078,485
+29-Apr,29,Kerala,25827,24681,495
+30-Apr,30,Kerala,27481,26032,497
+1-May,31,Kerala,29012,27224,497
+2-May,32,Kerala,33276,31592,499
+3-May,33,Kerala,34608,33294,499
+4-May,34,Kerala,35441,34161,499
+5-May,35,Kerala,36312,35244,502
+6-May,36,Kerala,37546,36210,502
+7-May,37,Kerala,38206,36856,502
+8-May,38,Kerala,39266,38294,503
+9-May,39,Kerala,40123,39233,505
+10-May,40,Kerala,41279,40155,512
+11-May,41,Kerala,41700,40889,512
+12-May,42,Kerala,42461,41621,524
+13-May,43,Kerala,43648,42574,534
+14-May,44,Kerala,45039,43868,560
+15-May,45,Kerala,46831,45063,576
+16-May,46,Kerala,48433,46458,587
+17-May,47,Kerala,50036,47964,601
+18-May,48,Kerala,51059,49763,630
+19-May,49,Kerala,52588,50867,642
+20-May,50,Kerala,54633,52689,666
+21-May,51,Kerala,56373,54541,690
+22-May,52,Kerala,58382,56165,733
+23-May,53,Kerala,60443,58192,795
+24-May,54,Kerala,61900,59943,848
+25-May,55,Kerala,63009,61698,897
+26-May,56,Kerala,65303,63010,964
+27-May,57,Kerala,67961,65099,1004
+28-May,58,Kerala,70622,67677,1089
+29-May,59,Kerala,74214,71083,1151
+30-May,60,Kerala,77257,73775,1209
+31-May,61,Kerala,77508,75697,1270
+1-Jun,62,Kerala,82449,78310,1327
+2-Jun,63,Kerala,86169,81157,1413
+3-Jun,64,Kerala,95348,84870,1495
+4-Jun,65,Kerala,99692,87403,1589
+5-Jun,66,Kerala,104045,92818,1700
+6-Jun,67,Kerala,107796,97114,1808
+7-Jun,68,Kerala,111930,100319,1915
+13-Apr,1,Ladakh,618,,17
+14-Apr,2,Ladakh,760,615,17
+15-Apr,3,Ladakh,820,657,18
+16-Apr,4,Ladakh,917,695,18
+19-Apr,5,Ladakh,991,797,18
+21-Apr,6,Ladakh,1137,896,18
+29-Apr,7,Ladakh,1949,1299,22
+30-Apr,8,Ladakh,2245,1384,22
+1-May,9,Ladakh,2430,1545,22
+2-May,10,Ladakh,2434,1618,23
+3-May,11,Ladakh,2434,1674,41
+4-May,12,Ladakh,2639,1879,41
+9-May,13,Ladakh,3503,2948,42
+13-May,14,Ladakh,3683,3353,43
+16-May,15,Ladakh,4067,3571,43
+18-May,16,Ladakh,4219,3791,43
+19-May,17,Ladakh,4730,3935,43
+21-May,18,Ladakh,5291,4081,44
+22-May,19,Ladakh,5505,4173,44
+23-May,20,Ladakh,5727,4505,49
+24-May,21,Ladakh,5730,4733,52
+25-May,22,Ladakh,5896,4894,53
+30-May,23,Ladakh,7354,6145,74
+31-May,24,Ladakh,7354,6167,77
+2-Jun,25,Ladakh,8310,6465,81
+5-Jun,26,Ladakh,9754,7204,97
+6-Jun,27,Ladakh,10164,7214,99
+5-Apr,1,Madhya Pradesh,2812,1954,193
+7-Apr,2,Madhya Pradesh,3770,3125,290
+8-Apr,3,Madhya Pradesh,4056,3443,341
+9-Apr,4,Madhya Pradesh,5135,3989,411
+10-Apr,5,Madhya Pradesh,7049,4840,451
+11-Apr,6,Madhya Pradesh,8516,5790,529
+12-Apr,7,Madhya Pradesh,10481,6875,562
+13-Apr,8,Madhya Pradesh,10481,6875,614
+14-Apr,9,Madhya Pradesh,8105,7103,741
+15-Apr,10,Madhya Pradesh,9596,8658,938
+16-Apr,11,Madhya Pradesh,13492,12326,1164
+17-Apr,12,Madhya Pradesh,15302,13992,1310
+18-Apr,13,Madhya Pradesh,14978,13576,1402
+19-Apr,14,Madhya Pradesh,17835,16428,1407
+20-Apr,15,Madhya Pradesh,19142,17657,1485
+21-Apr,16,Madhya Pradesh,20905,19353,1552
+22-Apr,17,Madhya Pradesh,22664,21077,1587
+23-Apr,18,Madhya Pradesh,24548,22861,1687
+24-Apr,19,Madhya Pradesh,26233,24387,1846
+25-Apr,20,Madhya Pradesh,27866,25921,1945
+26-Apr,21,Madhya Pradesh,25232,21716,2090
+27-Apr,22,Madhya Pradesh,27009,23500,2165
+28-Apr,23,Madhya Pradesh,31060,26159,2387
+29-Apr,24,Madhya Pradesh,33837,29261,2560
+30-Apr,25,Madhya Pradesh,41712,29816,2625
+1-May,26,Madhya Pradesh,44116,39353,2715
+2-May,27,Madhya Pradesh,46578,41460,2788
+3-May,28,Madhya Pradesh,49186,43937,2837
+4-May,29,Madhya Pradesh,52095,46634,2942
+5-May,30,Madhya Pradesh,54595,48931,3049
+6-May,31,Madhya Pradesh,54595,51479,3138
+7-May,32,Madhya Pradesh,61020,55002,3252
+8-May,33,Madhya Pradesh,63705,57528,3341
+9-May,34,Madhya Pradesh,68010,61629,3457
+10-May,35,Madhya Pradesh,72069,65436,3614
+11-May,36,Madhya Pradesh,76039,69187,3785
+12-May,37,Madhya Pradesh,80885,73761,3986
+13-May,38,Madhya Pradesh,85903,77738,4173
+14-May,39,Madhya Pradesh,89760,82028,4426
+15-May,40,Madhya Pradesh,93849,85879,4595
+16-May,41,Madhya Pradesh,99677,91393,4790
+17-May,42,Madhya Pradesh,103898,95355,4977
+18-May,43,Madhya Pradesh,112168,100469,5236
+19-May,44,Madhya Pradesh,116473,104348,5465
+20-May,45,Madhya Pradesh,120737,108744,5735
+21-May,46,Madhya Pradesh,125608,112947,5981
+22-May,47,Madhya Pradesh,129060,116835,6170
+23-May,48,Madhya Pradesh,132769,121033,6371
+24-May,49,Madhya Pradesh,135889,124549,6665
+25-May,50,Madhya Pradesh,138584,128267,6859
+26-May,51,Madhya Pradesh,141508,131415,7024
+27-May,52,Madhya Pradesh,146144,134774,7261
+28-May,53,Madhya Pradesh,151182,138387,7453
+29-May,54,Madhya Pradesh,155436,142383,7645
+30-May,55,Madhya Pradesh,161552,146616,7891
+31-May,56,Madhya Pradesh,167808,151793,8089
+1-Jun,57,Madhya Pradesh,172019,157790,8283
+2-Jun,58,Madhya Pradesh,177481,163100,8420
+3-Jun,59,Madhya Pradesh,183662,168219,8588
+4-Jun,60,Madhya Pradesh,189252,173392,8762
+5-Jun,61,Madhya Pradesh,195249,179234,8996
+6-Jun,62,Madhya Pradesh,200913,184202,9228
+7-Jun,63,Madhya Pradesh,208514,190155,9401
+5-Apr,1,Maharashtra,16008,14837,
+6-Apr,2,Maharashtra,17563,15808,868
+7-Apr,3,Maharashtra,20877,19290,1018
+9-Apr,4,Maharashtra,20877,19290,868
+10-Apr,5,Maharashtra,30000,28865,1135
+11-Apr,6,Maharashtra,31841,30477,1761
+12-Apr,7,Maharashtra,35668,34094,1761
+13-Apr,8,Maharashtra,39725,37964,1996
+14-Apr,9,Maharashtra,41071,39089,2340
+15-Apr,10,Maharashtra,45142,42808,2690
+16-Apr,11,Maharashtra,50882,48198,2916
+17-Apr,12,Maharashtra,55678,52762,3204
+18-Apr,13,Maharashtra,60166,56964,3323
+19-Apr,14,Maharashtra,66796,63476,3651
+20-Apr,15,Maharashtra,71321,67673,4204
+21-Apr,16,Maharashtra,75838,71638,4676
+22-Apr,17,Maharashtra,82304,77638,5229
+23-Apr,18,Maharashtra,89197,83979,5218
+24-Apr,19,Maharashtra,95210,89561,6427
+25-Apr,20,Maharashtra,100912,94485,6817
+26-Apr,21,Maharashtra,107979,101162,7928
+27-Apr,22,Maharashtra,115147,107519,8068
+28-Apr,23,Maharashtra,120620,112552,8590
+29-Apr,24,Maharashtra,128726,120136,9318
+30-Apr,25,Maharashtra,135694,126376,9915
+1-May,26,Maharashtra,144159,134244,10498
+2-May,27,Maharashtra,151085,140587,11506
+3-May,28,Maharashtra,159754,148248,12296
+4-May,29,Maharashtra,168374,156078,12974
+5-May,30,Maharashtra,175323,162349,14541
+6-May,31,Maharashtra,181746,167205,15525
+7-May,32,Maharashtra,189220,173838,16758
+8-May,33,Maharashtra,200477,183862,17974
+9-May,34,Maharashtra,210174,192197,19063
+10-May,35,Maharashtra,225524,206481,20228
+11-May,36,Maharashtra,218914,193457,23401
+12-May,37,Maharashtra,222284,196165,23401
+13-May,38,Maharashtra,231061,203536,24427
+14-May,39,Maharashtra,240482,211082,25922
+15-May,40,Maharashtra,250898,219635,27524
+16-May,41,Maharashtra,261815,228956,29100
+17-May,42,Maharashtra,274040,238476,30706
+18-May,43,Maharashtra,282437,245512,33053
+19-May,44,Maharashtra,294272,255065,35058
+20-May,45,Maharashtra,307535,265872,37136
+21-May,46,Maharashtra,319921,276369,39297
+22-May,47,Maharashtra,333087,286157,41642
+23-May,48,Maharashtra,348932,299107,44582
+24-May,49,Maharashtra,363470,310565,47190
+25-May,50,Maharashtra,379185,323937,50231
+26-May,51,Maharashtra,390757,333468,52667
+27-May,52,Maharashtra,405020,345151,54758
+28-May,53,Maharashtra,420473,358253,56948
+29-May,54,Maharashtra,434565,369442,59546
+30-May,55,Maharashtra,448661,380425,62228
+31-May,56,Maharashtra,463177,392516,65168
+1-Jun,57,Maharashtra,472344,399419,67655
+2-Jun,58,Maharashtra,484784,409178,70013
+3-Jun,59,Maharashtra,498577,420644,72300
+4-Jun,60,Maharashtra,511136,430100,74860
+5-Jun,61,Maharashtra,524002,440445,77793
+6-Jun,62,Maharashtra,538009,451764,80229
+7-Jun,63,Maharashtra,553063,463723,82968
+14-Apr,1,Manipur,276,,2
+17-Apr,2,Manipur,311,,2
+24-Apr,3,Manipur,402,,2
+25-Apr,4,Manipur,416,,2
+30-Apr,5,Manipur,459,,2
+1-May,6,Manipur,461,,2
+2-May,7,Manipur,468,,2
+4-May,8,Manipur,571,,2
+7-May,9,Manipur,684,,2
+8-May,10,Manipur,756,,2
+9-May,11,Manipur,865,,2
+10-May,12,Manipur,1096,,2
+11-May,13,Manipur,1337,,2
+13-May,14,Manipur,1706,,2
+15-May,15,Manipur,1799,,3
+16-May,16,Manipur,1900,,4
+18-May,17,Manipur,2483,,7
+20-May,18,Manipur,3087,,20
+22-May,19,Manipur,3721,,26
+23-May,20,Manipur,4094,,29
+25-May,21,Manipur,5041,,36
+26-May,22,Manipur,6233,,39
+27-May,23,Manipur,6836,,44
+28-May,24,Manipur,7758,,55
+29-May,25,Manipur,8596,,59
+3-Jun,26,Manipur,12454,,118
+5-Jun,27,Manipur,14629,,132
+7-Jun,28,Manipur,17028,,172
+16-Apr,1,Meghalaya,552,299,7
+17-Apr,2,Meghalaya,617,541,9
+18-Apr,3,Meghalaya,738,667,11
+19-Apr,4,Meghalaya,766,678,11
+20-Apr,5,Meghalaya,838,714,11
+21-Apr,6,Meghalaya,933,821,12
+22-Apr,7,Meghalaya,1046,904,12
+23-Apr,8,Meghalaya,1109,1000,12
+24-Apr,9,Meghalaya,1130,1048,12
+25-Apr,10,Meghalaya,1169,1097,12
+27-Apr,11,Meghalaya,1254,1182,12
+28-Apr,12,Meghalaya,1382,1202,12
+29-Apr,13,Meghalaya,1397,1288,12
+30-Apr,14,Meghalaya,1595,1433,12
+2-May,15,Meghalaya,1707,1655,12
+4-May,16,Meghalaya,1884,1782,12
+5-May,17,Meghalaya,1944,1822,12
+7-May,18,Meghalaya,2054,1967,12
+9-May,19,Meghalaya,2287,2178,12
+10-May,20,Meghalaya,2287,2178,13
+11-May,21,Meghalaya,2480,2342,13
+15-May,22,Meghalaya,2712,2597,13
+18-May,23,Meghalaya,2896,,13
+19-May,24,Meghalaya,3104,,13
+20-May,25,Meghalaya,3419,,13
+22-May,26,Meghalaya,3682,,14
+26-May,27,Meghalaya,6553,5599,15
+27-May,28,Meghalaya,6685,,20
+31-May,29,Meghalaya,7781,,27
+1-Jun,30,Meghalaya,8127,,27
+2-Jun,31,Meghalaya,8734,,28
+3-Jun,32,Meghalaya,9025,,28
+4-Jun,33,Meghalaya,9395,,31
+5-Jun,34,Meghalaya,9592,,31
+6-Jun,35,Meghalaya,10066,,33
+7-Jun,36,Meghalaya,10066,,33
+6-Apr,1,Mizoram,58,0,1
+7-Apr,2,Mizoram,58,0,1
+8-Apr,3,Mizoram,74,,1
+9-Apr,4,Mizoram,84,,1
+12-Apr,5,Mizoram,87,,1
+13-Apr,6,Mizoram,89,,1
+14-Apr,7,Mizoram,91,,1
+15-Apr,8,Mizoram,94,,1
+16-Apr,9,Mizoram,94,,1
+18-Apr,10,Mizoram,102,,1
+19-Apr,11,Mizoram,116,,1
+20-Apr,12,Mizoram,132,,1
+21-Apr,13,Mizoram,135,,1
+22-Apr,14,Mizoram,135,,1
+23-Apr,15,Mizoram,137,,1
+26-Apr,16,Mizoram,146,,1
+27-Apr,17,Mizoram,146,,1
+28-Apr,18,Mizoram,158,,1
+29-Apr,19,Mizoram,179,,1
+30-Apr,20,Mizoram,180,,1
+1-May,21,Mizoram,180,,1
+2-May,22,Mizoram,183,,1
+3-May,23,Mizoram,183,,1
+4-May,24,Mizoram,183,,1
+5-May,25,Mizoram,188,,1
+6-May,26,Mizoram,195,,1
+7-May,27,Mizoram,197,,1
+8-May,28,Mizoram,199,,1
+9-May,29,Mizoram,201,,1
+10-May,30,Mizoram,201,,1
+11-May,31,Mizoram,206,,1
+12-May,32,Mizoram,224,,1
+13-May,33,Mizoram,224,,1
+14-May,34,Mizoram,273,,1
+15-May,35,Mizoram,273,,1
+16-May,36,Mizoram,282,,1
+17-May,37,Mizoram,282,,1
+18-May,38,Mizoram,301,,1
+19-May,39,Mizoram,313,,1
+20-May,40,Mizoram,315,,1
+21-May,41,Mizoram,320,,1
+22-May,42,Mizoram,324,,1
+23-May,43,Mizoram,336,,1
+24-May,44,Mizoram,342,,1
+25-May,45,Mizoram,359,,1
+26-May,46,Mizoram,438,,1
+28-May,47,Mizoram,516,,1
+29-May,48,Mizoram,529,,1
+30-May,49,Mizoram,686,,1
+31-May,50,Mizoram,777,,1
+1-Jun,51,Mizoram,896,,1
+2-Jun,52,Mizoram,1012,,13
+3-Jun,53,Mizoram,1095,,14
+4-Jun,54,Mizoram,1346,,17
+5-Jun,55,Mizoram,1687,,22
+6-Jun,56,Mizoram,1991,,24
+7-Jun,57,Mizoram,2252,,34
+6-Apr,1,Nagaland,60,47,0
+10-Apr,2,Nagaland,70,69,0
+11-Apr,3,Nagaland,70,70,0
+12-Apr,4,Nagaland,74,70,0
+14-Apr,5,Nagaland,174,97,0
+15-Apr,6,Nagaland,184,174,0
+17-Apr,7,Nagaland,274,222,0
+18-Apr,8,Nagaland,392,292,0
+19-Apr,9,Nagaland,404,345,0
+20-Apr,10,Nagaland,434,404,0
+21-Apr,11,Nagaland,537,456,0
+22-Apr,12,Nagaland,543,481,0
+23-Apr,13,Nagaland,607,543,0
+25-Apr,14,Nagaland,613,607,0
+26-Apr,15,Nagaland,613,613,0
+27-Apr,16,Nagaland,629,613,0
+28-Apr,17,Nagaland,639,620,0
+29-Apr,18,Nagaland,644,631,0
+30-Apr,19,Nagaland,653,640,0
+1-May,20,Nagaland,664,650,0
+2-May,21,Nagaland,674,661,0
+3-May,22,Nagaland,684,663,0
+4-May,23,Nagaland,708,679,0
+5-May,24,Nagaland,724,771,0
+6-May,25,Nagaland,763,712,0
+7-May,26,Nagaland,786,728,0
+8-May,27,Nagaland,805,775,0
+9-May,28,Nagaland,848,786,0
+10-May,29,Nagaland,862,806,0
+11-May,30,Nagaland,875,848,0
+12-May,31,Nagaland,882,872,0
+13-May,32,Nagaland,889,872,0
+14-May,33,Nagaland,891,873,0
+15-May,34,Nagaland,910,889,0
+16-May,35,Nagaland,917,891,0
+17-May,36,Nagaland,952,914,0
+18-May,37,Nagaland,961,914,0
+19-May,38,Nagaland,978,948,0
+20-May,39,Nagaland,985,952,0
+21-May,40,Nagaland,1001,978,0
+22-May,41,Nagaland,1035,1012,0
+23-May,42,Nagaland,1065,1015,0
+24-May,43,Nagaland,1097,1032,0
+25-May,44,Nagaland,1366,1078,3
+26-May,45,Nagaland,1366,1080,4
+27-May,46,Nagaland,1554,1224,9
+28-May,47,Nagaland,1765,1317,18
+29-May,48,Nagaland,1997,1409,25
+30-May,49,Nagaland,2210,1496,36
+31-May,50,Nagaland,2576,1596,43
+1-Jun,51,Nagaland,2870,1744,43
+2-Jun,52,Nagaland,3257,1836,49
+3-Jun,53,Nagaland,3414,2002,58
+4-Jun,54,Nagaland,3739,2151,80
+5-Jun,55,Nagaland,3974,2372,94
+6-Jun,56,Nagaland,4061,2614,107
+7-Jun,57,Nagaland,4371,2956,118
+3-Apr,1,Odisha,1395,1108,20
+7-Apr,2,Odisha,2441,,42
+8-Apr,3,Odisha,2441,2399,42
+9-Apr,4,Odisha,3249,3201,48
+10-Apr,5,Odisha,3547,3497,50
+11-Apr,6,Odisha,3551,3497,51
+12-Apr,7,Odisha,3862,3808,54
+13-Apr,8,Odisha,4170,4116,54
+14-Apr,9,Odisha,4734,4678,56
+15-Apr,10,Odisha,5537,5477,60
+16-Apr,11,Odisha,6734,6674,60
+17-Apr,12,Odisha,7577,7517,60
+18-Apr,13,Odisha,8619,8559,60
+19-Apr,14,Odisha,9690,9629,61
+20-Apr,15,Odisha,10641,,68
+21-Apr,16,Odisha,11748,,79
+22-Apr,17,Odisha,13775,,83
+23-Apr,18,Odisha,15984,,89
+24-Apr,19,Odisha,18458,,94
+25-Apr,20,Odisha,20599,,94
+26-Apr,21,Odisha,22816,,103
+27-Apr,22,Odisha,25103,,111
+28-Apr,23,Odisha,26687,,118
+29-Apr,24,Odisha,29108,,122
+30-Apr,25,Odisha,31696,,142
+1-May,26,Odisha,34133,,149
+2-May,27,Odisha,36593,,157
+3-May,28,Odisha,38658,,162
+4-May,29,Odisha,41128,,169
+5-May,30,Odisha,44663,,170
+6-May,31,Odisha,47454,,185
+7-May,32,Odisha,50514,,209
+8-May,33,Odisha,52974,,271
+9-May,34,Odisha,56322,,294
+10-May,35,Odisha,59780,,362
+11-May,36,Odisha,63478,,414
+12-May,37,Odisha,68057,,437
+13-May,38,Odisha,72756,,538
+14-May,39,Odisha,77150,,611
+15-May,40,Odisha,81919,,672
+16-May,41,Odisha,86140,,737
+17-May,42,Odisha,91223,,828
+18-May,43,Odisha,95766,,876
+19-May,44,Odisha,100302,,978
+20-May,45,Odisha,105914,,1052
+21-May,46,Odisha,108432,,1103
+22-May,47,Odisha,113437,,1189
+23-May,48,Odisha,118446,,1269
+24-May,49,Odisha,123834,,1335
+25-May,50,Odisha,127776,,1438
+26-May,51,Odisha,131595,,1517
+27-May,52,Odisha,136274,,1593
+28-May,53,Odisha,139311,,1660
+29-May,54,Odisha,143570,,1723
+30-May,55,Odisha,147490,,1819
+31-May,56,Odisha,152131,,1948
+1-Jun,57,Odisha,155690,,2104
+2-Jun,58,Odisha,159567,,2245
+3-Jun,59,Odisha,162891,,2388
+4-Jun,60,Odisha,165824,,2478
+5-Jun,61,Odisha,169010,,2608
+6-Jun,62,Odisha,172598,,2781
+7-Jun,63,Odisha,176098,,2856
+18-Apr,1,Puducherry,1207,1159,7
+19-Apr,2,Puducherry,1245,1214,7
+20-Apr,3,Puducherry,1272,1232,7
+21-Apr,4,Puducherry,1319,1272,7
+22-Apr,5,Puducherry,1473,1354,7
+23-Apr,6,Puducherry,1548,1513,7
+24-Apr,7,Puducherry,1704,1657,7
+25-Apr,8,Puducherry,1864,1793,8
+26-Apr,9,Puducherry,1977,1902,8
+27-Apr,10,Puducherry,2014,1942,8
+28-Apr,11,Puducherry,2156,2099,8
+29-Apr,12,Puducherry,2228,2150,8
+30-Apr,13,Puducherry,2353,2292,8
+1-May,14,Puducherry,2698,2583,9
+2-May,15,Puducherry,2990,2902,12
+3-May,16,Puducherry,3155,3097,12
+4-May,17,Puducherry,3281,3220,12
+5-May,18,Puducherry,3560,3444,12
+6-May,19,Puducherry,3641,3554,12
+7-May,20,Puducherry,3866,3766,13
+8-May,21,Puducherry,4111,3866,15
+9-May,22,Puducherry,4266,4028,16
+10-May,23,Puducherry,4364,4273,17
+11-May,24,Puducherry,4486,4416,17
+13-May,25,Puducherry,4919,4832,18
+14-May,26,Puducherry,5112,4963,18
+15-May,27,Puducherry,5312,5162,21
+16-May,28,Puducherry,5484,5320,22
+17-May,29,Puducherry,5619,5501,22
+18-May,30,Puducherry,5754,5709,22
+19-May,31,Puducherry,5829,5762,22
+20-May,32,Puducherry,5960,5889,24
+21-May,33,Puducherry,6106,5995,31
+22-May,34,Puducherry,6233,6143,32
+23-May,35,Puducherry,6349,6254,39
+24-May,36,Puducherry,6536,6444,45
+25-May,37,Puducherry,6606,6537,47
+26-May,38,Puducherry,6677,6593,52
+27-May,39,Puducherry,6808,6711,60
+28-May,40,Puducherry,6917,6286,61
+29-May,41,Puducherry,7043,6910,65
+30-May,42,Puducherry,7164,7004,71
+31-May,43,Puducherry,7255,7116,81
+1-Jun,44,Puducherry,7354,7198,81
+2-Jun,45,Puducherry,7444,7339,91
+3-Jun,46,Puducherry,7576,7447,98
+4-Jun,47,Puducherry,7794,7647,109
+5-Jun,48,Puducherry,7963,7791,115
+6-Jun,49,Puducherry,8118,7968,118
+7-Jun,50,Puducherry,8274,8112,134
+2-Apr,1,Punjab,1434,1236,37
+8-Apr,2,Punjab,2937,2614,106
+9-Apr,3,Punjab,3192,2777,130
+10-Apr,4,Punjab,3461,2972,151
+11-Apr,5,Punjab,3909,3249,158
+12-Apr,6,Punjab,4281,3590,170
+13-Apr,7,Punjab,4480,3858,176
+14-Apr,8,Punjab,4844,4047,184
+15-Apr,9,Punjab,5193,4404,186
+16-Apr,10,Punjab,5524,4727,197
+17-Apr,11,Punjab,5988,5113,211
+18-Apr,12,Punjab,6167,5354,234
+19-Apr,13,Punjab,6607,5949,244
+20-Apr,14,Punjab,6797,6273,245
+21-Apr,15,Punjab,7355,6769,251
+22-Apr,16,Punjab,7887,7100,257
+23-Apr,17,Punjab,8757,7433,283
+24-Apr,18,Punjab,10611,8310,298
+25-Apr,19,Punjab,13270,9392,308
+26-Apr,20,Punjab,14317,10497,322
+27-Apr,21,Punjab,15516,12333,330
+28-Apr,22,Punjab,17021,13966,342
+29-Apr,23,Punjab,18670,15690,375
+30-Apr,24,Punjab,21205,17286,480
+1-May,25,Punjab,23176,18222,585
+2-May,26,Punjab,24868,19316,772
+3-May,27,Punjab,26439,20197,1102
+4-May,28,Punjab,28545,21295,1232
+5-May,29,Punjab,30199,23352,1451
+6-May,30,Punjab,32060,24303,1526
+7-May,31,Punjab,34701,28933,1644
+8-May,32,Punjab,37950,31219,1731
+9-May,33,Punjab,39462,33639,1762
+10-May,34,Punjab,40962,35293,1823
+11-May,35,Punjab,42306,37993,1877
+12-May,36,Punjab,43999,39060,1914
+13-May,37,Punjab,46026,40637,1924
+14-May,38,Punjab,47408,42425,1935
+15-May,39,Punjab,49301,44319,1932
+16-May,40,Punjab,50613,46028,1946
+17-May,41,Punjab,51812,47484,1964
+18-May,42,Punjab,52955,48813,1980
+19-May,43,Punjab,55634,50070,2002
+20-May,44,Punjab,57737,51956,2005
+21-May,45,Punjab,59618,53871,2028
+22-May,46,Punjab,62399,55777,2029
+23-May,47,Punjab,63567,57899,2045
+24-May,48,Punjab,66142,60114,2060
+25-May,49,Punjab,67213,62686,2081
+26-May,50,Punjab,69818,64160,2106
+27-May,51,Punjab,72468,66417,2139
+28-May,52,Punjab,72468,67325,2158
+29-May,53,Punjab,81021,,2197
+30-May,54,Punjab,84497,,2233
+31-May,55,Punjab,87852,,2263
+1-Jun,56,Punjab,91113,,2301
+2-Jun,57,Punjab,96329,,2342
+3-Jun,58,Punjab,101036,,2376
+4-Jun,59,Punjab,106933,,2415
+5-Jun,60,Punjab,113542,,2461
+6-Jun,61,Punjab,115974,,2515
+7-Jun,62,Punjab,124266,,2608
+5-Apr,1,Rajasthan,12279,11439,260
+7-Apr,2,Rajasthan,17638,16401,363
+8-Apr,3,Rajasthan,17638,16401,363
+9-Apr,4,Rajasthan,19107,17851,463
+10-Apr,5,Rajasthan,22349,20698,561
+11-Apr,6,Rajasthan,24857,22583,678
+12-Apr,7,Rajasthan,28505,25105,796
+13-Apr,8,Rajasthan,31804,28657,847
+14-Apr,9,Rajasthan,34928,29376,1005
+15-Apr,10,Rajasthan,37860,31902,1076
+16-Apr,11,Rajasthan,40778,33739,1101
+17-Apr,12,Rajasthan,42847,36153,1229
+18-Apr,13,Rajasthan,47197,39092,1282
+19-Apr,14,Rajasthan,51614,43537,1478
+20-Apr,15,Rajasthan,57290,47657,1576
+21-Apr,16,Rajasthan,61492,54100,1735
+22-Apr,17,Rajasthan,66257,58552,1888
+23-Apr,18,Rajasthan,69764,63485,1964
+24-Apr,19,Rajasthan,74484,68133,2034
+25-Apr,20,Rajasthan,78993,71806,2083
+26-Apr,21,Rajasthan,82942,75670,2185
+27-Apr,22,Rajasthan,87777,80830,2262
+28-Apr,23,Rajasthan,92506,85834,2364
+29-Apr,24,Rajasthan,97790,90108,2438
+30-Apr,25,Rajasthan,103704,,2584
+1-May,26,Rajasthan,108543,100277,2666
+2-May,27,Rajasthan,113934,104705,2720
+3-May,28,Rajasthan,120240,112345,2886
+4-May,29,Rajasthan,129258,122513,3061
+5-May,30,Rajasthan,134987,128297,3158
+6-May,31,Rajasthan,139580,134172,3317
+7-May,32,Rajasthan,145510,139830,3427
+8-May,33,Rajasthan,152245,146198,3579
+9-May,34,Rajasthan,159157,152296,3708
+10-May,35,Rajasthan,166424,158830,3814
+11-May,36,Rajasthan,176130,168546,3988
+12-May,37,Rajasthan,185610,,4126
+13-May,38,Rajasthan,194683,186125,4328
+14-May,39,Rajasthan,204243,197269,4534
+15-May,40,Rajasthan,212317,203770,4747
+16-May,41,Rajasthan,221439,213395,4960
+17-May,42,Rajasthan,231946,221764,5202
+18-May,43,Rajasthan,243476,234165,5375
+19-May,44,Rajasthan,254533,244955,5845
+20-May,45,Rajasthan,265555,254128,6015
+21-May,46,Rajasthan,275974,266687,6227
+22-May,47,Rajasthan,287164,277744,6494
+23-May,48,Rajasthan,303935,292384,6657
+24-May,49,Rajasthan,317067,306209,7028
+25-May,50,Rajasthan,327836,318146,7300
+26-May,51,Rajasthan,337159,326368,7536
+27-May,52,Rajasthan,350600,338611,7816
+28-May,53,Rajasthan,365556,351861,8067
+29-May,54,Rajasthan,379315,365925,8365
+30-May,55,Rajasthan,395490,382315,8617
+31-May,56,Rajasthan,409777,396789,8831
+1-Jun,57,Rajasthan,425184,411965,9100
+2-Jun,58,Rajasthan,440789,428471,9373
+3-Jun,59,Rajasthan,454788,440850,9652
+4-Jun,60,Rajasthan,467129,451826,9862
+5-Jun,61,Rajasthan,480910,465349,10084
+6-Jun,62,Rajasthan,494480,478366,10337
+7-Jun,63,Rajasthan,506784,491233,10599
+4-May,1,Sikkim,170,169,0
+5-May,2,Sikkim,181,171,0
+6-May,3,Sikkim,189,189,0
+7-May,4,Sikkim,216,207,0
+8-May,5,Sikkim,216,214,0
+9-May,6,Sikkim,219,219,0
+10-May,7,Sikkim,219,219,0
+11-May,8,Sikkim,219,219,0
+12-May,9,Sikkim,348,229,0
+13-May,10,Sikkim,439,268,0
+14-May,11,Sikkim,579,292,0
+15-May,12,Sikkim,348,229,0
+16-May,13,Sikkim,840,424,0
+17-May,14,Sikkim,947,449,0
+18-May,15,Sikkim,1087,536,0
+19-May,16,Sikkim,1204,827,0
+20-May,17,Sikkim,1342,955,0
+22-May,18,Sikkim,1637,1347,0
+23-May,19,Sikkim,1707,1398,0
+24-May,20,Sikkim,1855,1471,1
+25-May,21,Sikkim,2103,1508,1
+26-May,22,Sikkim,2255,1508,1
+27-May,23,Sikkim,2417,1665,1
+28-May,24,Sikkim,2626,1801,1
+29-May,25,Sikkim,2759,1880,1
+30-May,26,Sikkim,2829,2015,1
+31-May,27,Sikkim,2925,2173,1
+1-Jun,28,Sikkim,3525,2601,1
+2-Jun,29,Sikkim,3788,2857,1
+3-Jun,30,Sikkim,4102,3062,2
+4-Jun,31,Sikkim,4358,3894,2
+5-Jun,32,Sikkim,4761,4143,3
+6-Jun,33,Sikkim,5005,4273,3
+3-Apr,1,Tamil Nadu,3684,2789,411
+8-Apr,2,Tamil Nadu,5305,4414,690
+9-Apr,3,Tamil Nadu,7267,5824,834
+10-Apr,4,Tamil Nadu,8410,6838,911
+11-Apr,5,Tamil Nadu,9842,7779,969
+12-Apr,6,Tamil Nadu,10655,,1075
+13-Apr,7,Tamil Nadu,12746,,1173
+14-Apr,8,Tamil Nadu,19255,13234,1204
+15-Apr,9,Tamil Nadu,21994,15210,1242
+16-Apr,10,Tamil Nadu,26005,18743,1267
+17-Apr,11,Tamil Nadu,29673,21628,1323
+18-Apr,12,Tamil Nadu,35036,27192,1372
+19-Apr,13,Tamil Nadu,40876,31853,1477
+20-Apr,14,Tamil Nadu,46985,38082,1520
+21-Apr,15,Tamil Nadu,53045,43582,1596
+22-Apr,16,Tamil Nadu,59023,49506,1629
+23-Apr,17,Tamil Nadu,65977,56836,1683
+24-Apr,18,Tamil Nadu,72403,62596,1755
+25-Apr,19,Tamil Nadu,80110,69390,1821
+26-Apr,20,Tamil Nadu,87605,77133,1885
+27-Apr,21,Tamil Nadu,94781,83021,1937
+28-Apr,22,Tamil Nadu,101874,97908,2058
+29-Apr,23,Tamil Nadu,109961,105864,2162
+30-Apr,24,Tamil Nadu,119748,115761,2323
+1-May,25,Tamil Nadu,129363,124852,2526
+2-May,26,Tamil Nadu,139490,135698,2757
+3-May,27,Tamil Nadu,150107,145520,3023
+4-May,28,Tamil Nadu,162970,158558,3550
+5-May,29,Tamil Nadu,174828,170174,4058
+6-May,30,Tamil Nadu,188241,182541,4829
+7-May,31,Tamil Nadu,202436,195831,5409
+8-May,32,Tamil Nadu,216416,209495,6009
+9-May,33,Tamil Nadu,229670,222576,6535
+10-May,34,Tamil Nadu,243037,235157,7204
+11-May,35,Tamil Nadu,254899,245562,8002
+12-May,36,Tamil Nadu,266687,256720,8718
+13-May,37,Tamil Nadu,279467,269758,9227
+14-May,38,Tamil Nadu,291432,281001,9674
+15-May,39,Tamil Nadu,303104,292045,10108
+16-May,40,Tamil Nadu,313639,302523,10585
+17-May,41,Tamil Nadu,326720,315019,11224
+18-May,42,Tamil Nadu,337841,325546,11760
+19-May,43,Tamil Nadu,348174,334839,12448
+20-May,44,Tamil Nadu,360068,346311,13191
+21-May,45,Tamil Nadu,372532,357898,13967
+22-May,46,Tamil Nadu,385185,369929,14735
+23-May,47,Tamil Nadu,397340,381216,15512
+24-May,48,Tamil Nadu,409615,392690,16277
+25-May,49,Tamil Nadu,421450,403762,17082
+26-May,50,Tamil Nadu,431739,413455,17728
+27-May,51,Tamil Nadu,442970,423775,18545
+28-May,52,Tamil Nadu,455216,435279,19372
+29-May,53,Tamil Nadu,466550,445668,20246
+30-May,54,Tamil Nadu,479155,457405,21184
+31-May,55,Tamil Nadu,491962,468940,22333
+1-Jun,56,Tamil Nadu,503339,479208,23495
+2-Jun,57,Tamil Nadu,514433,489258,24586
+3-Jun,58,Tamil Nadu,528534,502173,25872
+4-Jun,59,Tamil Nadu,544981,517137,27256
+5-Jun,60,Tamil Nadu,560673,535254,28694
+6-Jun,61,Tamil Nadu,576695,545896,30152
+7-Jun,62,Tamil Nadu,592970,560890,31667
+19-Apr,1,Telangana,14962,14104,858
+28-Apr,2,Telangana,19063,,1009
+29-Apr,3,Telangana,19278,,1016
+16-May,4,Telangana,23388,,1551
+11-Apr,1,Tripura,337,335,2
+15-Apr,2,Tripura,738,,2
+16-Apr,3,Tripura,762,760,2
+21-Apr,4,Tripura,2604,2602,2
+22-Apr,5,Tripura,3215,3123,2
+1-May,6,Tripura,4828,4825,3
+2-May,7,Tripura,4955,4950,5
+3-May,8,Tripura,5162,5157,5
+4-May,9,Tripura,5394,5377,17
+5-May,10,Tripura,5850,5820,30
+6-May,11,Tripura,6228,6185,43
+7-May,12,Tripura,6917,6828,89
+8-May,13,Tripura,7448,7359,89
+9-May,14,Tripura,8340,8221,119
+10-May,15,Tripura,9091,8955,136
+11-May,16,Tripura,9596,9442,154
+12-May,17,Tripura,10344,10189,155
+13-May,18,Tripura,11146,10991,155
+14-May,19,Tripura,11804,11648,156
+15-May,20,Tripura,12561,12405,156
+16-May,21,Tripura,13178,13011,167
+17-May,22,Tripura,13750,13583,167
+18-May,23,Tripura,14286,14119,167
+19-May,24,Tripura,15083,14914,169
+20-May,25,Tripura,15822,15694,173
+21-May,26,Tripura,16873,16610,173
+22-May,27,Tripura,17721,17546,175
+23-May,28,Tripura,18737,18546,191
+24-May,29,Tripura,19278,19537,191
+25-May,30,Tripura,20871,20637,198
+26-May,31,Tripura,22049,21840,209
+27-May,32,Tripura,23264,23032,232
+28-May,33,Tripura,24126,23884,242
+29-May,34,Tripura,25403,25159,244
+30-May,35,Tripura,26376,26105,271
+31-May,36,Tripura,27475,27159,316
+1-Jun,37,Tripura,28360,27937,423
+2-Jun,38,Tripura,29066,28595,471
+3-Jun,39,Tripura,30481,29859,622
+4-Jun,40,Tripura,31138,30492,646
+5-Jun,41,Tripura,32300,31606,694
+6-Jun,42,Tripura,33331,32582,749
+7-Jun,43,Tripura,35263,34461,802
+5-Apr,1,Uttar Pradesh,5255,4796,278
+5-Apr,2,Uttar Pradesh,5255,4796,278
+9-Apr,3,Uttar Pradesh,8402,7898,410
+10-Apr,4,Uttar Pradesh,9332,8798,433
+11-Apr,5,Uttar Pradesh,10595,10012,452
+12-Apr,6,Uttar Pradesh,11855,11250,483
+13-Apr,7,Uttar Pradesh,13287,12542,558
+14-Apr,8,Uttar Pradesh,15914,15134,660
+15-Apr,9,Uttar Pradesh,19506,18595,727
+16-Apr,10,Uttar Pradesh,21384,20374,805
+17-Apr,11,Uttar Pradesh,24643,23648,849
+18-Apr,12,Uttar Pradesh,28484,27262,974
+19-Apr,13,Uttar Pradesh,31767,,1100
+20-Apr,14,Uttar Pradesh,34326,32874,1184
+21-Apr,15,Uttar Pradesh,37933,36378,1337
+22-Apr,16,Uttar Pradesh,42192,40263,1449
+23-Apr,17,Uttar Pradesh,45483,43495,1510
+24-Apr,18,Uttar Pradesh,53166,51161,1621
+25-Apr,19,Uttar Pradesh,56851,54216,1793
+26-Apr,20,Uttar Pradesh,61799,58492,1873
+27-Apr,21,Uttar Pradesh,67145,64139,1896
+28-Apr,22,Uttar Pradesh,70307,67266,2053
+29-Apr,23,Uttar Pradesh,73716,70436,2134
+30-Apr,24,Uttar Pradesh,78013,74864,2211
+1-May,25,Uttar Pradesh,82459,79091,2328
+2-May,26,Uttar Pradesh,85729,82356,2487
+3-May,27,Uttar Pradesh,95841,91828,2645
+4-May,28,Uttar Pradesh,98300,94682,2766
+5-May,29,Uttar Pradesh,105234,101389,2880
+6-May,30,Uttar Pradesh,109888,106043,2998
+7-May,31,Uttar Pradesh,113670,109628,3071
+8-May,32,Uttar Pradesh,119688,115646,3214
+9-May,33,Uttar Pradesh,124791,120764,3373
+10-May,34,Uttar Pradesh,129955,125696,3467
+11-May,35,Uttar Pradesh,135760,131293,3573
+12-May,36,Uttar Pradesh,140166,135754,3664
+13-May,37,Uttar Pradesh,145637,141068,3578
+14-May,38,Uttar Pradesh,153139,147755,3902
+15-May,39,Uttar Pradesh,159282,153588,4057
+16-May,40,Uttar Pradesh,163105,157001,4258
+17-May,41,Uttar Pradesh,172219,165832,4464
+18-May,42,Uttar Pradesh,176479,170132,4605
+19-May,43,Uttar Pradesh,182184,175412,4926
+20-May,44,Uttar Pradesh,191164,184209,5175
+21-May,45,Uttar Pradesh,206811,199469,5515
+22-May,46,Uttar Pradesh,214060,207079,5735
+23-May,47,Uttar Pradesh,217867,210864,6017
+24-May,48,Uttar Pradesh,229621,222341,6268
+25-May,49,Uttar Pradesh,235622,228173,6497
+26-May,50,Uttar Pradesh,240588,232290,6724
+27-May,51,Uttar Pradesh,240588,239592,6991
+28-May,52,Uttar Pradesh,256267,247747,7170
+29-May,53,Uttar Pradesh,270920,261911,7445
+30-May,54,Uttar Pradesh,279288,270160,7701
+31-May,55,Uttar Pradesh,289892,279569,8075
+1-Jun,56,Uttar Pradesh,297903,287806,8361
+2-Jun,57,Uttar Pradesh,307621,296705,8729
+3-Jun,58,Uttar Pradesh,317780,306672,8870
+4-Jun,59,Uttar Pradesh,330663,318562,9237
+5-Jun,60,Uttar Pradesh,344717,332126,9733
+6-Jun,61,Uttar Pradesh,355085,342360,10103
+7-Jun,62,Uttar Pradesh,360258,346684,10536
+2-Apr,1,Uttarakhand,678,554,7
+7-Apr,2,Uttarakhand,1289,1092,32
+9-Apr,3,Uttarakhand,1531,1235,35
+10-Apr,4,Uttarakhand,1688,1320,35
+11-Apr,5,Uttarakhand,1705,1340,35
+12-Apr,6,Uttarakhand,1820,1452,35
+13-Apr,7,Uttarakhand,1998,1665,35
+14-Apr,8,Uttarakhand,2174,1838,35
+15-Apr,9,Uttarakhand,2413,2022,37
+16-Apr,10,Uttarakhand,2593,2210,37
+17-Apr,11,Uttarakhand,2831,2420,40
+18-Apr,12,Uttarakhand,3158,2710,42
+19-Apr,13,Uttarakhand,3344,3046,44
+20-Apr,14,Uttarakhand,3677,3228,46
+21-Apr,15,Uttarakhand,4061,3445,46
+22-Apr,16,Uttarakhand,4275,3664,46
+23-Apr,17,Uttarakhand,4473,3879,47
+24-Apr,18,Uttarakhand,4767,4239,48
+25-Apr,19,Uttarakhand,5194,4423,48
+26-Apr,20,Uttarakhand,5277,4675,50
+27-Apr,21,Uttarakhand,5463,4912,51
+28-Apr,22,Uttarakhand,5739,5212,52
+29-Apr,23,Uttarakhand,6046,5547,54
+30-Apr,24,Uttarakhand,6565,6100,57
+1-May,25,Uttarakhand,7042,6533,57
+2-May,26,Uttarakhand,7369,6786,59
+3-May,27,Uttarakhand,7578,6986,60
+4-May,28,Uttarakhand,7806,7134,60
+5-May,29,Uttarakhand,8060,7357,61
+6-May,30,Uttarakhand,8346,7698,61
+7-May,31,Uttarakhand,8783,8138,61
+8-May,32,Uttarakhand,9116,8485,61
+9-May,33,Uttarakhand,9386,8659,67
+10-May,34,Uttarakhand,9668,8990,68
+11-May,35,Uttarakhand,9915,9151,68
+12-May,36,Uttarakhand,10471,9390,68
+13-May,37,Uttarakhand,10792,9750,70
+14-May,38,Uttarakhand,11294,10157,75
+15-May,39,Uttarakhand,12045,10523,79
+16-May,40,Uttarakhand,12597,10990,88
+17-May,41,Uttarakhand,13212,11316,92
+18-May,42,Uttarakhand,13870,11812,93
+19-May,43,Uttarakhand,14691,12242,104
+20-May,44,Uttarakhand,15503,12945,120
+21-May,45,Uttarakhand,16528,13808,132
+22-May,46,Uttarakhand,18008,14960,151
+23-May,47,Uttarakhand,19248,15757,173
+24-May,48,Uttarakhand,20969,16640,293
+25-May,49,Uttarakhand,22117,17315,332
+26-May,50,Uttarakhand,23076,18193,400
+27-May,51,Uttarakhand,23975,18645,438
+28-May,52,Uttarakhand,25380,19702,493
+29-May,53,Uttarakhand,26951,20636,602
+30-May,54,Uttarakhand,28433,21512,727
+31-May,55,Uttarakhand,30438,22546,802
+1-Jun,56,Uttarakhand,31703,23400,929
+2-Jun,57,Uttarakhand,33081,24262,999
+3-Jun,58,Uttarakhand,34413,25385,1066
+4-Jun,59,Uttarakhand,35117,26093,1145
+5-Jun,60,Uttarakhand,35967,27184,1215
+6-Jun,61,Uttarakhand,36638,28172,1245
+7-Jun,62,Uttarakhand,37166,28945,1341
+1-Apr,1,West Bengal,659,568,37
+4-Apr,2,West Bengal,1042,,
+6-Apr,3,West Bengal,1301,,
+7-Apr,4,West Bengal,1487,,
+9-Apr,5,West Bengal,1889,,
+10-Apr,6,West Bengal,2095,,
+11-Apr,7,West Bengal,2286,,126
+12-Apr,8,West Bengal,2523,,134
+13-Apr,9,West Bengal,2793,,152
+14-Apr,10,West Bengal,3081,,190
+15-Apr,11,West Bengal,3470,,213
+16-Apr,12,West Bengal,3811,,231
+17-Apr,13,West Bengal,4212,,255
+18-Apr,14,West Bengal,4630,,287
+19-Apr,15,West Bengal,5045,,310
+20-Apr,16,West Bengal,5469,,339
+21-Apr,17,West Bengal,6182,,392
+22-Apr,18,West Bengal,7037,,423
+23-Apr,19,West Bengal,7990,,456
+24-Apr,20,West Bengal,8933,,514
+25-Apr,21,West Bengal,9880,,571
+26-Apr,22,West Bengal,10893,,611
+27-Apr,23,West Bengal,12043,,649
+28-Apr,24,West Bengal,13223,,697
+29-Apr,25,West Bengal,14620,,725
+30-Apr,26,West Bengal,16525,,758
+1-May,27,West Bengal,18566,,
+2-May,28,West Bengal,20976,,795
+3-May,29,West Bengal,22915,,922
+4-May,30,West Bengal,25116,,1259
+5-May,31,West Bengal,27571,,1344
+6-May,32,West Bengal,30141,,1456
+7-May,33,West Bengal,32752,,1548
+8-May,34,West Bengal,35767,,1678
+9-May,35,West Bengal,39368,,1786
+10-May,36,West Bengal,43414,,1939
+11-May,37,West Bengal,47615,,2063
+12-May,38,West Bengal,52622,,2173
+13-May,39,West Bengal,57632,,2290
+14-May,40,West Bengal,62837,,2377
+15-May,41,West Bengal,69543,,2461
+16-May,42,West Bengal,77288,,2576
+17-May,43,West Bengal,85956,,2677
+18-May,44,West Bengal,93570,,2825
+19-May,45,West Bengal,102282,,2961
+20-May,46,West Bengal,111002,,3103
+21-May,47,West Bengal,115244,,3197
+22-May,48,West Bengal,120599,,3332
+23-May,49,West Bengal,129608,,3459
+24-May,50,West Bengal,138824,,3667
+25-May,51,West Bengal,148049,,3816
+26-May,52,West Bengal,157277,,4009
+27-May,53,West Bengal,166513,,4192
+28-May,54,West Bengal,175769,,4536
+29-May,55,West Bengal,185051,,4813
+30-May,56,West Bengal,194397,,5130
+31-May,57,West Bengal,203751,,5501
+1-Jun,58,West Bengal,213231,,5772
+2-Jun,59,West Bengal,222726,,6168
+3-Jun,60,West Bengal,232225,,6508
+4-Jun,61,West Bengal,241831,,6876
+5-Jun,62,West Bengal,251517,,7303
+6-Jun,63,West Bengal,261288,,7738
+7-Jun,64,West Bengal,271074,,8187
